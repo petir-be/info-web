@@ -1,0 +1,1375 @@
+[
+  {
+    "scientific": "Pangium edule",
+    "local": "Pangi",
+    "family": "Achariaceae",
+    "source": "Wild",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 2,
+    "uv": 0.026,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Allium ampeloprasum",
+    "local": "Bunjing",
+    "family": "Amaryllidaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "leaves, bulbs",
+    "ur": 1,
+    "uv": 0.013,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  },
+  {
+    "scientific": "Allium fistulosum",
+    "local": "Sibuyas dahon",
+    "family": "Amaryllidaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "leaves",
+    "ur": 25,
+    "uv": 0.321,
+    "uses": 2,
+    "fidelity": "G: 26.32; S:94.74",
+    "categories": [
+      "G",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Mangifera caesia",
+    "local": "Belunok",
+    "family": "Anacardiaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 2,
+    "uv": 0.026,
+    "uses": 1,
+    "fidelity": "VF: 100.00",
+    "categories": [
+      "VF"
+    ]
+  },
+  {
+    "scientific": "Mangifera indica",
+    "local": "Manga",
+    "family": "Anacardiaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits, shoots",
+    "ur": 10,
+    "uv": 0.128,
+    "uses": 2,
+    "fidelity": "VA: 100.00; S: 28.57",
+    "categories": [
+      "VA",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Spondias mombin",
+    "local": "Saray",
+    "family": "Anacardiaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 1,
+    "uv": 0.013,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Annona muricata",
+    "local": "Abana",
+    "family": "Annonaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 7,
+    "uv": 0.09,
+    "uses": 2,
+    "fidelity": "OF:100.00; S:40.00",
+    "categories": [
+      "OF",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Daucus carota",
+    "local": "Carot",
+    "family": "Apiaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "tuber",
+    "ur": 7,
+    "uv": 0.09,
+    "uses": 1,
+    "fidelity": "VA: 100.00",
+    "categories": [
+      "VA"
+    ]
+  },
+  {
+    "scientific": "Alocasia macrorrhizos",
+    "local": "Gabi",
+    "family": "Araceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "corms",
+    "ur": 23,
+    "uv": 0.295,
+    "uses": 2,
+    "fidelity": "W:100.00; G:15.00",
+    "categories": [
+      "W",
+      "G"
+    ]
+  },
+  {
+    "scientific": "Colocasia esculenta",
+    "local": "Labug",
+    "family": "Araceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "corms, young leaves",
+    "ur": 37,
+    "uv": 0.474,
+    "uses": 2,
+    "fidelity": "W: 92.59; G: 25.93",
+    "categories": [
+      "W",
+      "G"
+    ]
+  },
+  {
+    "scientific": "Cyrtosperma merkusii",
+    "local": "Palaw",
+    "family": "Araceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "corms",
+    "ur": 4,
+    "uv": 0.051,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Schismatoglottis calyptrata",
+    "local": "Opusow",
+    "family": "Araceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "corms, young shoots",
+    "ur": 3,
+    "uv": 0.038,
+    "uses": 2,
+    "fidelity": "W: 100.00; G: 50.00",
+    "categories": [
+      "W",
+      "G"
+    ]
+  },
+  {
+    "scientific": "Xanthosoma sagittifolium",
+    "local": "Lutya",
+    "family": "Araceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "corms, young shoots",
+    "ur": 27,
+    "uv": 0.346,
+    "uses": 2,
+    "fidelity": "W: 90.00; G: 25.00",
+    "categories": [
+      "W",
+      "G"
+    ]
+  },
+  {
+    "scientific": "Xanthosoma sp.",
+    "local": "Lutya/Adupa",
+    "family": "Araceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "corms",
+    "ur": 31,
+    "uv": 0.397,
+    "uses": 1,
+    "fidelity": "W: 100.00",
+    "categories": [
+      "W"
+    ]
+  },
+  {
+    "scientific": "Areca catechu",
+    "local": "Bunga",
+    "family": "Arecaceae",
+    "source": "Wild",
+    "form": "tree",
+    "parts": "seed",
+    "ur": 4,
+    "uv": 0.051,
+    "uses": 1,
+    "fidelity": "OF:100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Calamus rotang",
+    "local": "Uway",
+    "family": "Arecaceae",
+    "source": "Wild",
+    "form": "climbers",
+    "parts": "fruits, pith",
+    "ur": 50,
+    "uv": 0.641,
+    "uses": 2,
+    "fidelity": "OV: 66.67; OF: 100.00",
+    "categories": [
+      "OV",
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Calamus sp.",
+    "local": "Libas/Uway",
+    "family": "Arecaceae",
+    "source": "Wild",
+    "form": "climbers",
+    "parts": "fruits, pith",
+    "ur": 10,
+    "uv": 0.128,
+    "uses": 2,
+    "fidelity": "OV: 50.00; OF: 66.67",
+    "categories": [
+      "OV",
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Caryota cumingii",
+    "local": "Pugahan",
+    "family": "Arecaceae",
+    "source": "Wild",
+    "form": "tree",
+    "parts": "fruit flesh",
+    "ur": 3,
+    "uv": 0.038,
+    "uses": 1,
+    "fidelity": "L: 100.00",
+    "categories": [
+      "L"
+    ]
+  },
+  {
+    "scientific": "Cocos nucifera",
+    "local": "Lubi",
+    "family": "Arecaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits, shoots",
+    "ur": 8,
+    "uv": 0.103,
+    "uses": 3,
+    "fidelity": "OV: 66.67; OF: 66.67; S: 66.67",
+    "categories": [
+      "OV",
+      "OF",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Lactuca sativa",
+    "local": "Lettuce",
+    "family": "Asteraceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "leaves",
+    "ur": 8,
+    "uv": 0.103,
+    "uses": 1,
+    "fidelity": "G: 100.00",
+    "categories": [
+      "G"
+    ]
+  },
+  {
+    "scientific": "Diplazium esculentum",
+    "local": "Pako",
+    "family": "Athyriaceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "leaves, shoots",
+    "ur": 22,
+    "uv": 0.282,
+    "uses": 1,
+    "fidelity": "G: 100.00",
+    "categories": [
+      "G"
+    ]
+  },
+  {
+    "scientific": "Basella alba",
+    "local": "Agbati",
+    "family": "Basellaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "leaves, shoots",
+    "ur": 15,
+    "uv": 0.192,
+    "uses": 1,
+    "fidelity": "G: 100.00",
+    "categories": [
+      "G"
+    ]
+  },
+  {
+    "scientific": "Bixa Orellana",
+    "local": "Aswete",
+    "family": "Bixaceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "seeds",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  },
+  {
+    "scientific": "Brassica oleracea",
+    "local": "Repolyo",
+    "family": "Brassicaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "leaves",
+    "ur": 10,
+    "uv": 0.128,
+    "uses": 1,
+    "fidelity": "G: 100.00",
+    "categories": [
+      "G"
+    ]
+  },
+  {
+    "scientific": "Brassica rapa",
+    "local": "Humbok",
+    "family": "Brassicaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "leaves",
+    "ur": 10,
+    "uv": 0.128,
+    "uses": 1,
+    "fidelity": "G: 100.00",
+    "categories": [
+      "G"
+    ]
+  },
+  {
+    "scientific": "Carica papaya",
+    "local": "Kapayas",
+    "family": "Caricaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 10,
+    "uv": 0.128,
+    "uses": 2,
+    "fidelity": "OV: 22.22; VF: 77.78",
+    "categories": [
+      "OV",
+      "VF"
+    ]
+  },
+  {
+    "scientific": "Ipomoea aquatica",
+    "local": "Tinangkong",
+    "family": "Convolvulaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "leaves, shoots",
+    "ur": 17,
+    "uv": 0.218,
+    "uses": 1,
+    "fidelity": "G: 100.00",
+    "categories": [
+      "G"
+    ]
+  },
+  {
+    "scientific": "Ipomoea batatas",
+    "local": "Kamote",
+    "family": "Convolvulaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "tubers, leaves, young leaves",
+    "ur": 82,
+    "uv": 1.051,
+    "uses": 3,
+    "fidelity": "G: 90.48; OV: 2.38; VA: 100.00",
+    "categories": [
+      "G",
+      "OV",
+      "VA"
+    ]
+  },
+  {
+    "scientific": "Cucurbita maxima",
+    "local": "Kalabasa",
+    "family": "Cucurbitaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "fruits, shoots",
+    "ur": 35,
+    "uv": 0.449,
+    "uses": 2,
+    "fidelity": "VA: 89.47; G: 84.21",
+    "categories": [
+      "VA",
+      "G"
+    ]
+  },
+  {
+    "scientific": "Lagenaria siceraria",
+    "local": "Upo",
+    "family": "Cucurbitaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "fruits",
+    "ur": 6,
+    "uv": 0.077,
+    "uses": 1,
+    "fidelity": "OV: 100.00",
+    "categories": [
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Momordica charantia",
+    "local": "Paliya",
+    "family": "Cucurbitaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "fruits, shoots",
+    "ur": 34,
+    "uv": 0.436,
+    "uses": 2,
+    "fidelity": "G: 100.00; OV: 100.00",
+    "categories": [
+      "G",
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Sechium edule",
+    "local": "Sayote",
+    "family": "Cucurbitaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "fruits, shoots",
+    "ur": 31,
+    "uv": 0.397,
+    "uses": 2,
+    "fidelity": "G: 82.35; OV: 76.47",
+    "categories": [
+      "G",
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Dioscorea alata",
+    "local": "Ube",
+    "family": "Dioscoreaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "tuber",
+    "ur": 9,
+    "uv": 0.115,
+    "uses": 2,
+    "fidelity": "W: 85.71; OV: 14.29",
+    "categories": [
+      "W",
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Dioscorea hispida",
+    "local": "Lab-o",
+    "family": "Dioscoreaceae",
+    "source": "Wild",
+    "form": "climbers",
+    "parts": "tuber",
+    "ur": 11,
+    "uv": 0.141,
+    "uses": 1,
+    "fidelity": "W: 100.00",
+    "categories": [
+      "W"
+    ]
+  },
+  {
+    "scientific": "Manihot esculenta",
+    "local": "Binggala/Balanghoy",
+    "family": "Euphorbiaceae",
+    "source": "Cultivated",
+    "form": "shrub",
+    "parts": "tuber, young leaves",
+    "ur": 79,
+    "uv": 1.013,
+    "uses": 2,
+    "fidelity": "W: 91.11; G: 66.67",
+    "categories": [
+      "W",
+      "G"
+    ]
+  },
+  {
+    "scientific": "Arachis hypogaea",
+    "local": "Mani",
+    "family": "Fabaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "seeds",
+    "ur": 1,
+    "uv": 0.013,
+    "uses": 1,
+    "fidelity": "L: 100.00",
+    "categories": [
+      "L"
+    ]
+  },
+  {
+    "scientific": "Cajanus cajan",
+    "local": "Kadios",
+    "family": "Fabaceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "seeds",
+    "ur": 4,
+    "uv": 0.051,
+    "uses": 1,
+    "fidelity": "L: 100.00",
+    "categories": [
+      "L"
+    ]
+  },
+  {
+    "scientific": "Leucaena leucocephala",
+    "local": "Ipil-ipil",
+    "family": "Fabaceae",
+    "source": "Wild",
+    "form": "tree",
+    "parts": "seeds",
+    "ur": 1,
+    "uv": 0.013,
+    "uses": 1,
+    "fidelity": "L: 100.00",
+    "categories": [
+      "L"
+    ]
+  },
+  {
+    "scientific": "Phaseolus vulgaris",
+    "local": "Balatong",
+    "family": "Fabaceae",
+    "source": "Cultivated",
+    "form": "climbers",
+    "parts": "pods, seeds",
+    "ur": 23,
+    "uv": 0.295,
+    "uses": 1,
+    "fidelity": "L: 100.00",
+    "categories": [
+      "L"
+    ]
+  },
+  {
+    "scientific": "Vigna radiata",
+    "local": "Monggos",
+    "family": "Fabaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "seeds",
+    "ur": 3,
+    "uv": 0.038,
+    "uses": 1,
+    "fidelity": "L: 100.00",
+    "categories": [
+      "L"
+    ]
+  },
+  {
+    "scientific": "Vigna unguiculata",
+    "local": "cowpea",
+    "family": "Fabaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "pods, seeds",
+    "ur": 19,
+    "uv": 0.244,
+    "uses": 1,
+    "fidelity": "L: 100.00",
+    "categories": [
+      "L"
+    ]
+  },
+  {
+    "scientific": "Perilla frutescens",
+    "local": "mint",
+    "family": "Lamiaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "leaves",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  },
+  {
+    "scientific": "Persea americana",
+    "local": "Abokado",
+    "family": "Lauraceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 9,
+    "uv": 0.115,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Abelmoschus esculentus",
+    "local": "Okra",
+    "family": "Malvaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "fruits",
+    "ur": 12,
+    "uv": 0.154,
+    "uses": 3,
+    "fidelity": "G: 20.00; OV:90.00; OF:10.00",
+    "categories": [
+      "G",
+      "OV",
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Durio zibethinus",
+    "local": "Durian",
+    "family": "Malvaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Theobroma cacao",
+    "local": "Cacao",
+    "family": "Malvaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits, seeds",
+    "ur": 31,
+    "uv": 0.397,
+    "uses": 3,
+    "fidelity": "OF: 31.58; L: 31.58; S: 94.74",
+    "categories": [
+      "OF",
+      "L",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Medinilla copelandii",
+    "local": "Hagawhao",
+    "family": "Melastomataceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "fruits",
+    "ur": 7,
+    "uv": 0.09,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Medinilla teysmannii",
+    "local": "Kalibas",
+    "family": "Melastomataceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "fruits",
+    "ur": 7,
+    "uv": 0.09,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Melastoma malabathricum",
+    "local": "Katungaw",
+    "family": "Melastomataceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "fruits",
+    "ur": 13,
+    "uv": 0.167,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Lansium domesticum",
+    "local": "Lansones",
+    "family": "Meliaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 6,
+    "uv": 0.077,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Sandoricum koetjape",
+    "local": "Santol",
+    "family": "Meliaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 6,
+    "uv": 0.077,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Artocarpus camansi",
+    "local": "Kamansi",
+    "family": "Moraceae",
+    "source": "Wild",
+    "form": "tree",
+    "parts": "fruits, seeds",
+    "ur": 4,
+    "uv": 0.051,
+    "uses": 1,
+    "fidelity": "OF:100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Artocarpus heterophyllus",
+    "local": "Nangka",
+    "family": "Moraceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits, seeds",
+    "ur": 47,
+    "uv": 0.603,
+    "uses": 3,
+    "fidelity": "OV: 75.00; OF:81.25; L:87.50",
+    "categories": [
+      "OV",
+      "OF",
+      "L"
+    ]
+  },
+  {
+    "scientific": "Artocarpus odoratissimus",
+    "local": "Marang",
+    "family": "Moraceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits, seeds",
+    "ur": 19,
+    "uv": 0.244,
+    "uses": 2,
+    "fidelity": "OF:90.91; L:72.73",
+    "categories": [
+      "OF",
+      "L"
+    ]
+  },
+  {
+    "scientific": "Moringa oleifera",
+    "local": "Kamunggay",
+    "family": "Moringaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "leaves, flowers",
+    "ur": 8,
+    "uv": 0.103,
+    "uses": 1,
+    "fidelity": "G: 100.00",
+    "categories": [
+      "G"
+    ]
+  },
+  {
+    "scientific": "Musa acuminata",
+    "local": "Saging",
+    "family": "Musaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "fruits, flowers",
+    "ur": 20,
+    "uv": 0.256,
+    "uses": 3,
+    "fidelity": "OV: 30.77; OF: 92.31; S: 23.08",
+    "categories": [
+      "OV",
+      "OF",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Musa sp.",
+    "local": "Saging",
+    "family": "Musaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "fruits, shoots",
+    "ur": 75,
+    "uv": 0.962,
+    "uses": 3,
+    "fidelity": "G: 14.71; OV: 61.76; OF: 91.18",
+    "categories": [
+      "G",
+      "OV",
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Psidium guajava",
+    "local": "Bayabas",
+    "family": "Myrtaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 9,
+    "uv": 0.115,
+    "uses": 3,
+    "fidelity": "G: 20.00; OV: 40.00; OF: 60.00",
+    "categories": [
+      "G",
+      "OV",
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Syzygium aqueum",
+    "local": "Tambis",
+    "family": "Myrtaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 4,
+    "uv": 0.051,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Syzygium sp.",
+    "local": "tambis-tambis",
+    "family": "Myrtaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 1,
+    "uv": 0.013,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Nepenthes sp.",
+    "local": "Pitsil-pitsil",
+    "family": "Nepenthaceae",
+    "source": "Wild",
+    "form": "climbers",
+    "parts": "water inside the modified leaf",
+    "ur": 13,
+    "uv": 0.167,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  },
+  {
+    "scientific": "Averrhoa carambola",
+    "local": "Balimbing",
+    "family": "Oxalidaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 15,
+    "uv": 0.192,
+    "uses": 1,
+    "fidelity": "OF:100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Pandanus amaryllifolius",
+    "local": "Pandan",
+    "family": "Pandanaceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "leaves",
+    "ur": 7,
+    "uv": 0.09,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  },
+  {
+    "scientific": "Antidesma bunius",
+    "local": "Bignay",
+    "family": "Phyllanthaceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "fruits",
+    "ur": 6,
+    "uv": 0.077,
+    "uses": 1,
+    "fidelity": "OF:100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Piper betle",
+    "local": "Buyo",
+    "family": "Piperaceae",
+    "source": "Wild",
+    "form": "climbers",
+    "parts": "leaves",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 2,
+    "fidelity": "G: 100.00; S: 25.00",
+    "categories": [
+      "G",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Pleurotus ostreatus",
+    "local": "Mushroom",
+    "family": "Pleurotaceae",
+    "source": "Cultivated",
+    "form": "fungus",
+    "parts": "body",
+    "ur": 2,
+    "uv": 0.026,
+    "uses": 1,
+    "fidelity": "OV: 100.00",
+    "categories": [
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Bambusa spp.",
+    "local": "Ubod",
+    "family": "Poaceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "shoots",
+    "ur": 11,
+    "uv": 0.141,
+    "uses": 1,
+    "fidelity": "OV: 100.00",
+    "categories": [
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Coix lacryma-jobi",
+    "local": "Adlai",
+    "family": "Poaceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "grains",
+    "ur": 10,
+    "uv": 0.128,
+    "uses": 1,
+    "fidelity": "C: 100.00",
+    "categories": [
+      "C"
+    ]
+  },
+  {
+    "scientific": "Cymbopogon citratus",
+    "local": "Tanglad",
+    "family": "Poaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "leaves",
+    "ur": 10,
+    "uv": 0.128,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  },
+  {
+    "scientific": "Saccharum officinarum",
+    "local": "Tubo",
+    "family": "Poaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "stems",
+    "ur": 14,
+    "uv": 0.179,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Zea mays",
+    "local": "Mais",
+    "family": "Poaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "seeds",
+    "ur": 32,
+    "uv": 0.41,
+    "uses": 1,
+    "fidelity": "C: 100.00",
+    "categories": [
+      "C"
+    ]
+  },
+  {
+    "scientific": "Ardisia elliptica",
+    "local": "Tagpo",
+    "family": "Primulaceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "fruits",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 1,
+    "fidelity": "OF:100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Rubus rosifolius",
+    "local": "Sapinit",
+    "family": "Rosaceae",
+    "source": "Wild",
+    "form": "shrub",
+    "parts": "fruit",
+    "ur": 15,
+    "uv": 0.192,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Coffea arabica",
+    "local": "Kape",
+    "family": "Rubiaceae",
+    "source": "Cultivated",
+    "form": "shrub",
+    "parts": "seeds",
+    "ur": 17,
+    "uv": 0.218,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  },
+  {
+    "scientific": "Citrus macrocarpa",
+    "local": "calamondin",
+    "family": "Rutaceae",
+    "source": "Cultivated",
+    "form": "shrub",
+    "parts": "fruits",
+    "ur": 3,
+    "uv": 0.038,
+    "uses": 2,
+    "fidelity": "OF: 50.00; S: 50.00",
+    "categories": [
+      "OF",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Citrus limon",
+    "local": "lime",
+    "family": "Rutaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 3,
+    "uv": 0.038,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Citrus maxima",
+    "local": "Bu-ungon",
+    "family": "Rutaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 11,
+    "uv": 0.141,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Citrus micrantha",
+    "local": "biasong",
+    "family": "Rutaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 9,
+    "uv": 0.115,
+    "uses": 2,
+    "fidelity": "OF: 87.50; S: 25.00",
+    "categories": [
+      "OF",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Citrus sp.",
+    "local": "limonsito",
+    "family": "Rutaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 3,
+    "uv": 0.038,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Flacourtia rukam",
+    "local": "Aganas",
+    "family": "Salicaceae",
+    "source": "Wild",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 12,
+    "uv": 0.154,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Nephelium lappaceum",
+    "local": "Rambutan",
+    "family": "Sapindaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 6,
+    "uv": 0.077,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Chrysophyllum cainito",
+    "local": "Kaimito",
+    "family": "Sapotaceae",
+    "source": "Cultivated",
+    "form": "tree",
+    "parts": "fruits",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Capsicum annuum",
+    "local": "Atsal",
+    "family": "Solanaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "fruits, leaves, shoots",
+    "ur": 16,
+    "uv": 0.205,
+    "uses": 2,
+    "fidelity": "G: 70.00; S:90.00",
+    "categories": [
+      "G",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Capsicum frutescens",
+    "local": "Sili",
+    "family": "Solanaceae",
+    "source": "Cultivated",
+    "form": "shrub",
+    "parts": "fruits, leaves, shoots",
+    "ur": 29,
+    "uv": 0.372,
+    "uses": 2,
+    "fidelity": "G: 78.57; S: 92.86",
+    "categories": [
+      "G",
+      "S"
+    ]
+  },
+  {
+    "scientific": "Solanum lycopersicum",
+    "local": "Kamatis",
+    "family": "Solanaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "fruits",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 1,
+    "fidelity": "OV: 100.00",
+    "categories": [
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Solanum melongena",
+    "local": "Talong",
+    "family": "Solanaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "fruits",
+    "ur": 16,
+    "uv": 0.205,
+    "uses": 1,
+    "fidelity": "OV: 100.00",
+    "categories": [
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Solanum tuberosum",
+    "local": "Patatas",
+    "family": "Solanaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "fruits",
+    "ur": 13,
+    "uv": 0.167,
+    "uses": 2,
+    "fidelity": "W: 76.92; OV: 23.08",
+    "categories": [
+      "W",
+      "OV"
+    ]
+  },
+  {
+    "scientific": "Etlingera sp.",
+    "local": "Tukabon",
+    "family": "Zingiberaceae",
+    "source": "Wild",
+    "form": "herb",
+    "parts": "inflorescence",
+    "ur": 15,
+    "uv": 0.192,
+    "uses": 1,
+    "fidelity": "OF: 100.00",
+    "categories": [
+      "OF"
+    ]
+  },
+  {
+    "scientific": "Zingiber officinale",
+    "local": "Luy-a",
+    "family": "Zingiberaceae",
+    "source": "Cultivated",
+    "form": "herb",
+    "parts": "rhizomes",
+    "ur": 5,
+    "uv": 0.064,
+    "uses": 1,
+    "fidelity": "S: 100.00",
+    "categories": [
+      "S"
+    ]
+  }
+]
