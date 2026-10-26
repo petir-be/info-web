@@ -95,7 +95,7 @@
   width: 46px;
   height: 46px;
   border: 1px solid #d9e4d9;
-  border-radius: 50%;
+  border-radius: 100%;
   display: grid;
   place-items: center;
 }
@@ -1058,7 +1058,7 @@ footer {
     font-size: 23px;
   }
   .brand-mark {
-    width: 39px;
+    /* width: 39px; */
     height: 39px;
   }
   .brand-sub {
