@@ -1,0 +1,1262 @@
+{
+  "food-1": {
+    "src": "/plants/food-1-960.webp",
+    "originalFilename": "1-Pangium edule.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/102615730",
+    "publisher": "iNaturalist",
+    "credit": "Credit: Naufal Urfi Dhiya'ulhaq",
+    "status": "named-credit-verified",
+    "photographer": "Naufal Urfi Dhiya'ulhaq",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://www.inaturalist.org/photos/102615730",
+    "sourceRef": "Food Use!G2"
+  },
+  "food-10": {
+    "src": "/plants/food-10-960.webp",
+    "originalFilename": "10_Labug.webp",
+    "sourceUrl": "https://www.britannica.com/plant/taro-plant",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G11"
+  },
+  "food-11": {
+    "src": "/plants/food-11-960.webp",
+    "originalFilename": "11_Palaw.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/5/9/5909",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G12"
+  },
+  "food-12": {
+    "src": "/plants/food-12-960.webp",
+    "originalFilename": "12_Opusyow.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/5/7/5702",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G13"
+  },
+  "food-13": {
+    "src": "/plants/food-13-960.webp",
+    "originalFilename": "13_Lutya.jpg",
+    "sourceUrl": "https://florida.plantatlas.usf.edu/plant/species/216",
+    "publisher": "Atlas of Florida Plants / University of South Florida",
+    "credit": "Source: Atlas of Florida Plants / University of South Florida",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G14"
+  },
+  "food-14": {
+    "src": "/plants/food-14-960.webp",
+    "originalFilename": "14_Lutya_Adupa.jpg",
+    "sourceUrl": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/xanthosoma",
+    "publisher": "ScienceDirect",
+    "credit": "Source: ScienceDirect",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G15"
+  },
+  "food-15": {
+    "src": "/plants/food-15-960.webp",
+    "originalFilename": "15_Bunga.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G16"
+  },
+  "food-16": {
+    "src": "/plants/food-16-960.webp",
+    "originalFilename": "16_Uway.jpg",
+    "sourceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:665387-1",
+    "publisher": "Royal Botanic Gardens, Kew / Plants of the World Online",
+    "credit": "Source: Royal Botanic Gardens, Kew / Plants of the World Online",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G17"
+  },
+  "food-17": {
+    "src": "/plants/food-17-960.webp",
+    "originalFilename": "17_Libas_Uway.jpg",
+    "sourceUrl": "https://www.jircas.go.jp/en/database/thaivege/023",
+    "publisher": "Japan International Research Center for Agricultural Sciences",
+    "credit": "Source: Japan International Research Center for Agricultural Sciences",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G18"
+  },
+  "food-18": {
+    "src": "/plants/food-18-960.webp",
+    "originalFilename": "18_Puguhan.jpg",
+    "sourceUrl": "https://tropical.theferns.info/image.php?id=Caryota+cumingii",
+    "publisher": "Useful Tropical Plants",
+    "credit": "Source: Useful Tropical Plants",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G19"
+  },
+  "food-19": {
+    "src": "/plants/food-19-960.webp",
+    "originalFilename": "19_Lubi.jpg",
+    "sourceUrl": "https://levypreserve.org/plant-listings/cocos-nucifera/",
+    "publisher": "Leon Levy Native Plant Preserve",
+    "credit": "Source: Leon Levy Native Plant Preserve",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G20"
+  },
+  "food-2": {
+    "src": "/plants/food-2-960.webp",
+    "originalFilename": "2-Allium ampeloprasum.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/63378263",
+    "publisher": "iNaturalist",
+    "credit": "Credit: Greg Holland",
+    "status": "named-credit-verified",
+    "photographer": "Greg Holland",
+    "license": "CC BY-ND",
+    "licenseUrl": "https://www.inaturalist.org/photos/63378263",
+    "sourceRef": "Food Use!G3"
+  },
+  "food-20": {
+    "src": "/plants/food-20-960.webp",
+    "originalFilename": "20_Lettuce.jpg",
+    "sourceUrl": "https://mygardenlife.com/plant-library/leaf-lettuce-lactuca-sativa",
+    "publisher": "MyGardenLife",
+    "credit": "Source: MyGardenLife",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G21"
+  },
+  "food-21": {
+    "src": "/plants/food-21-960.webp",
+    "originalFilename": "21_Pako.jpg",
+    "sourceUrl": "https://www.stuartxchange.org/Pako.html",
+    "publisher": "StuartXchange",
+    "credit": "Source: StuartXchange",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G22"
+  },
+  "food-22": {
+    "src": "/plants/food-22-960.webp",
+    "originalFilename": "22_Agbati.jpg",
+    "sourceUrl": "https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.8273",
+    "publisher": "CABI Digital Library",
+    "credit": "Source: CABI Digital Library",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G23"
+  },
+  "food-23": {
+    "src": "/plants/food-23-960.webp",
+    "originalFilename": "23_Aswete.jpg",
+    "sourceUrl": "https://verafiles.org/articles/an-orange-red-sheen-annatto-in-philippine-food",
+    "publisher": "VERA Files",
+    "credit": "Source: VERA Files",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G24"
+  },
+  "food-24": {
+    "src": "/plants/food-24-960.webp",
+    "originalFilename": "24_Repolyo.jpg",
+    "sourceUrl": "http://heritagegarden.uic.edu/cabbage",
+    "publisher": "UIC Heritage Garden",
+    "credit": "Source: UIC Heritage Garden",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G25"
+  },
+  "food-25": {
+    "src": "/plants/food-25-960.webp",
+    "originalFilename": "25_Food (Humbok).webp",
+    "sourceUrl": "https://www.britannica.com/plant/Chinese-mustard",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G26"
+  },
+  "food-26": {
+    "src": "/plants/food-26-960.webp",
+    "originalFilename": "26_Food (Kapayas).jpg",
+    "sourceUrl": "https://www.gardenia.net/plant/carica-papaya-papaya",
+    "publisher": "Gardenia",
+    "credit": "Source: Gardenia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G27"
+  },
+  "food-27": {
+    "src": "/plants/food-27-960.webp",
+    "originalFilename": "27_Food (Tinangkong).jpg",
+    "sourceUrl": "https://www.flickr.com/photos/jardo/3661645419",
+    "publisher": "Flickr",
+    "credit": "Photo: Jardo de la Peña",
+    "status": "named-credit-verified",
+    "photographer": "Jardo de la Peña",
+    "license": "All rights reserved",
+    "sourceRef": "Food Use!G28"
+  },
+  "food-28": {
+    "src": "/plants/food-28-960.webp",
+    "originalFilename": "28_Food (Kamote).jpg",
+    "sourceUrl": "https://www.feedipedia.org/node/551",
+    "publisher": "Feedipedia",
+    "credit": "Source: Feedipedia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G29"
+  },
+  "food-29": {
+    "src": "/plants/food-29-960.webp",
+    "originalFilename": "29_Food (Kalabasa).jpg",
+    "sourceUrl": "https://www.hunker.com/13406992/how-to-grow-kalabasa-philippine-squash/",
+    "publisher": "Hunker",
+    "credit": "Source: Hunker",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G30"
+  },
+  "food-3": {
+    "src": "/plants/food-3-960.webp",
+    "originalFilename": "3-Allium fistulosum.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/273655277",
+    "publisher": "iNaturalist",
+    "credit": "Credit: Coral",
+    "status": "named-credit-verified",
+    "photographer": "Coral",
+    "license": "All rights reserved",
+    "sourceRef": "Food Use!G4"
+  },
+  "food-30": {
+    "src": "/plants/food-30-960.webp",
+    "originalFilename": "30_Food (Upo).jpg",
+    "sourceUrl": "https://www.juanmagsasaka.com/2020/12/upo-bottle-gourd-production-guide.html",
+    "publisher": "Juan Magsasaka",
+    "credit": "Source: Juan Magsasaka",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G31"
+  },
+  "food-31": {
+    "src": "/plants/food-31-960.webp",
+    "originalFilename": "31_Food (Paliya).webp",
+    "sourceUrl": "https://www.monaconatureencyclopedia.com/momordica-charantia/?lang=en",
+    "publisher": "Monaco Nature Encyclopedia",
+    "credit": "Source: Monaco Nature Encyclopedia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G32"
+  },
+  "food-32": {
+    "src": "/plants/food-32-960.webp",
+    "originalFilename": "32_Food (Sayote).jpg",
+    "sourceUrl": "https://www.istockphoto.com/photos/chayote-plant",
+    "publisher": "iStock",
+    "credit": "Source: iStock",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G33"
+  },
+  "food-33": {
+    "src": "/plants/food-33-960.webp",
+    "originalFilename": "33-Ube.JPG",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/6/0/6055",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G34"
+  },
+  "food-34": {
+    "src": "/plants/food-34-960.webp",
+    "originalFilename": "34-Lab-o.jpg",
+    "sourceUrl": "https://www.purdue.edu/hla/sites/famine-foods/wp-content/uploads/sites/18/2017/02/Dioscorea-hispida-tuber-2.jpg",
+    "publisher": "Purdue University",
+    "credit": "Source: Purdue University",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G35"
+  },
+  "food-35": {
+    "src": "/plants/food-35-960.webp",
+    "originalFilename": "35-Balanghoy.jpg",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "Food Use!G36"
+  },
+  "food-36": {
+    "src": "/plants/food-36-960.webp",
+    "originalFilename": "36-Mani.webp",
+    "sourceUrl": "https://cdn.britannica.com/93/164793-050-218E7B86/peanut-plant-legumes.jpg",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G37"
+  },
+  "food-37": {
+    "src": "/plants/food-37-960.webp",
+    "originalFilename": "37-Kadios.jpg",
+    "sourceUrl": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4e9d/3255353/c035f803dc3e/JAPTR-2-207-g001.jpg",
+    "publisher": "PubMed Central",
+    "credit": "Source: PubMed Central",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G38"
+  },
+  "food-38": {
+    "src": "/plants/food-38-960.webp",
+    "originalFilename": "38-Ipil-ipil.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/3471/e4eb0d42e2f449728caaad519e9cada0.jpg",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G39"
+  },
+  "food-39": {
+    "src": "/plants/food-39-960.webp",
+    "originalFilename": "39-Balatong.webp",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "Food Use!G40"
+  },
+  "food-4": {
+    "src": "/plants/food-4-960.webp",
+    "originalFilename": "4-Mangifera caesia.jfif",
+    "sourceUrl": "https://www.inaturalist.org/photos/921525",
+    "publisher": "iNaturalist",
+    "credit": "Credit: 106611639464075912591",
+    "status": "named-credit-verified",
+    "photographer": "106611639464075912591",
+    "license": "CC BY-NC-SA",
+    "licenseUrl": "https://www.inaturalist.org/photos/921525",
+    "sourceRef": "Food Use!G5"
+  },
+  "food-40": {
+    "src": "/plants/food-40-960.webp",
+    "originalFilename": "40-Monggo.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/5888/4d33757cd5284a92bc3c30d162b80802.jpg",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G41"
+  },
+  "food-41": {
+    "src": "/plants/food-41-960.webp",
+    "originalFilename": "41_ Cowpea.jpg",
+    "sourceUrl": "https://www.britannica.com/plant/cowpea",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G42"
+  },
+  "food-42": {
+    "src": "/plants/food-42-960.webp",
+    "originalFilename": "42_Mint.jpg",
+    "sourceUrl": "https://gobotany.nativeplanttrust.org/species/perilla/frutescens/",
+    "publisher": "Native Plant Trust / Go Botany",
+    "credit": "Source: Native Plant Trust / Go Botany",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G43"
+  },
+  "food-43": {
+    "src": "/plants/food-43-960.webp",
+    "originalFilename": "43_Abokado.jpg",
+    "sourceUrl": "https://gardenoracle.com/images/persea-americana.html",
+    "publisher": "Garden Oracle",
+    "credit": "Source: Garden Oracle",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G44"
+  },
+  "food-44": {
+    "src": "/plants/food-44-960.webp",
+    "originalFilename": "44_Okra.jpg",
+    "sourceUrl": "https://www.britannica.com/plant/okra",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G45"
+  },
+  "food-45": {
+    "src": "/plants/food-45-960.webp",
+    "originalFilename": "45_Durian.jpg",
+    "sourceUrl": "https://besgroup.org/2016/11/29/durio-zibethinus-the-durian-tree/",
+    "publisher": "Bird Ecology Study Group",
+    "credit": "Source: Bird Ecology Study Group",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G46"
+  },
+  "food-46": {
+    "src": "/plants/food-46-960.webp",
+    "originalFilename": "46_Cacao.jpg",
+    "sourceUrl": "https://www.britannica.com/plant/cacao",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G47"
+  },
+  "food-47": {
+    "src": "/plants/food-47-960.webp",
+    "originalFilename": "47_Hagawhao.jpg",
+    "sourceUrl": "https://www.philippineplants.org/Families/Melastomataceae.html",
+    "publisher": "Co’s Digital Flora of the Philippines",
+    "credit": "Source: Co’s Digital Flora of the Philippines",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G48"
+  },
+  "food-5": {
+    "src": "/plants/food-5-960.webp",
+    "originalFilename": "5-Mangifera indica.jpg",
+    "sourceUrl": "https://www.invasive.org/browse/subject/14127?tab=subject-info",
+    "publisher": "Invasive.org / Bugwood",
+    "credit": "Source: Invasive.org / Bugwood",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G6"
+  },
+  "food-55": {
+    "src": "/plants/food-55-960.webp",
+    "originalFilename": "55- Kamunggay.png",
+    "sourceUrl": "https://toptropicals.com/catalog/uid/moringa_oleifera.htm",
+    "publisher": "TopTropicals",
+    "credit": "Source: TopTropicals",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G56"
+  },
+  "food-56": {
+    "src": "/plants/food-56-960.webp",
+    "originalFilename": "56-saging.png",
+    "sourceUrl": "https://humphris.com.au/product/edibles/musa-acuminata-bananas-lady-finger/",
+    "publisher": "Humphris Nursery",
+    "credit": "Source: Humphris Nursery",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G57"
+  },
+  "food-57": {
+    "src": "/plants/food-57-960.webp",
+    "originalFilename": "57- musa sp..png",
+    "sourceUrl": "https://365greatpinoystuff.wordpress.com/wp-content/uploads/2010/02/banana-blooms.jpg",
+    "publisher": "365 Great Pinoy Stuff",
+    "credit": "Source: 365 Great Pinoy Stuff",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G58"
+  },
+  "food-58": {
+    "src": "/plants/food-58-960.webp",
+    "originalFilename": "58- Bayabas.png",
+    "sourceUrl": "https://levypreserve.org/plant-listings/psidium-guajava/",
+    "publisher": "Leon Levy Native Plant Preserve",
+    "credit": "Source: Leon Levy Native Plant Preserve",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G59"
+  },
+  "food-59": {
+    "src": "/plants/food-59-960.webp",
+    "originalFilename": "59- tambis.png",
+    "sourceUrl": "https://apps.lucidcentral.org/rainforest/text/entities/syzygium_aqueum.htm",
+    "publisher": "Lucidcentral",
+    "credit": "Source: Lucidcentral",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G60"
+  },
+  "food-6": {
+    "src": "/plants/food-6-960.webp",
+    "originalFilename": "6-Mangifera mombin.jpg",
+    "sourceUrl": "https://www.growables.org/information/TropicalFruit/YellowMombin.htm",
+    "publisher": "Growables",
+    "credit": "Source: Growables",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G7"
+  },
+  "food-60": {
+    "src": "/plants/food-60-960.webp",
+    "originalFilename": "60- tambis tambis.png",
+    "sourceUrl": "https://www.tropicke-rostliny.cz/p/syzygium-sp-sulawesi1/",
+    "publisher": "Tropické Rostliny",
+    "credit": "Source: Tropické Rostliny",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G61"
+  },
+  "food-61": {
+    "src": "/plants/food-61-960.webp",
+    "originalFilename": "61- pitsil-pitsil.png",
+    "sourceUrl": "https://www.elfika.eu/en/nepenthes/291-nepenthes-sp-tenuidon-fem.html",
+    "publisher": "Elfika",
+    "credit": "Source: Elfika",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G62"
+  },
+  "food-62": {
+    "src": "/plants/food-62-960.webp",
+    "originalFilename": "62-Averrhoa carambola.jpg",
+    "sourceUrl": "https://www.britannica.com/topic/carambola",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G63"
+  },
+  "food-63": {
+    "src": "/plants/food-63-960.webp",
+    "originalFilename": "63-Pandanus amaryllifolius.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2299",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G64"
+  },
+  "food-64": {
+    "src": "/plants/food-64-960.webp",
+    "originalFilename": "64-Antidesma bunius.jpg",
+    "sourceUrl": "https://www.gbif.org/taxon/5VJQY",
+    "publisher": "GBIF",
+    "credit": "Source: GBIF",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G65"
+  },
+  "food-65": {
+    "src": "/plants/food-65-960.webp",
+    "originalFilename": "65-Piper betle.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/173372270",
+    "publisher": "iNaturalist",
+    "credit": "Credit: shiaokao",
+    "status": "named-credit-verified",
+    "photographer": "shiaokao",
+    "license": "All rights reserved",
+    "sourceRef": "Food Use!G66"
+  },
+  "food-66": {
+    "src": "/plants/food-66-960.webp",
+    "originalFilename": "66-Pleurotus ostreatus.jpg",
+    "sourceUrl": "https://mycelia.be/m2153-pleurotus-ostreatus/",
+    "publisher": "Mycelia",
+    "credit": "Source: Mycelia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G67"
+  },
+  "food-67": {
+    "src": "/plants/food-67-960.webp",
+    "originalFilename": "67-Bambusa spp..jpg",
+    "sourceUrl": "https://toptropicals.com/catalog/uid/bambusa_sp.htm",
+    "publisher": "TopTropicals",
+    "credit": "Source: TopTropicals",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G68"
+  },
+  "food-68": {
+    "src": "/plants/food-68-960.webp",
+    "originalFilename": "68-Coix lacryma-jobi.jpg",
+    "sourceUrl": "https://www.easyseeds.eu/en/coix-lacryma-jobi/",
+    "publisher": "EasySeeds",
+    "credit": "Source: EasySeeds",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G69"
+  },
+  "food-69": {
+    "src": "/plants/food-69-960.webp",
+    "originalFilename": "69_tanglad.webp",
+    "sourceUrl": "https://www.gardenia.net/wp-content/uploads/2023/05/cymbopogon-citratus.webp",
+    "publisher": "Gardenia",
+    "credit": "Source: Gardenia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G70"
+  },
+  "food-7": {
+    "src": "/plants/food-7-960.webp",
+    "originalFilename": "7-Anona muriata.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3258",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G8"
+  },
+  "food-70": {
+    "src": "/plants/food-70-960.webp",
+    "originalFilename": "70_tubo.webp",
+    "sourceUrl": "https://www.picturethisai.com/wiki/Saccharum_officinarum.html",
+    "publisher": "PictureThis",
+    "credit": "Source: PictureThis",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G71"
+  },
+  "food-71": {
+    "src": "/plants/food-71-960.webp",
+    "originalFilename": "71_mais.webp",
+    "sourceUrl": "https://www.britannica.com/plant/corn-plant",
+    "publisher": "Encyclopaedia Britannica",
+    "credit": "Source: Encyclopaedia Britannica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G72"
+  },
+  "food-72": {
+    "src": "/plants/food-72-960.webp",
+    "originalFilename": "72_tagpo.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ardisia_elliptica",
+    "publisher": "Wikipedia",
+    "credit": "Source: Wikipedia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G73"
+  },
+  "food-73": {
+    "src": "/plants/food-73-960.webp",
+    "originalFilename": "73_sapinit.webp",
+    "sourceUrl": "https://www.raindanceseeds.com/plantsandseeds/tropical-raspberry-rubus-rosifolius",
+    "publisher": "Rain Dance Seeds",
+    "credit": "Source: Rain Dance Seeds",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G74"
+  },
+  "food-74": {
+    "src": "/plants/food-74-960.webp",
+    "originalFilename": "74_kape.webp",
+    "sourceUrl": "https://growbilliontrees.com/blogs/tree-stories/coffee-arabica-tree-unlocking-the-secrets-to-perfectly-brewed-coffee-at-home",
+    "publisher": "Grow Billion Trees",
+    "credit": "Source: Grow Billion Trees",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G75"
+  },
+  "food-75": {
+    "src": "/plants/food-75-960.webp",
+    "originalFilename": "75_calamondin.webp",
+    "sourceUrl": "https://bokksumarket.com/blogs/magazine/calamansi-the-amazing-filipino-fruit",
+    "publisher": "Bokksu Market",
+    "credit": "Source: Bokksu Market",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G76"
+  },
+  "food-76": {
+    "src": "/plants/food-76-960.webp",
+    "originalFilename": "76_ Lime.jpg",
+    "sourceUrl": "https://www.plantmark.com.au/images/thumbs/0265633_citrus-limonxcinensis-lemonadelemondwarf-fruit-flower.jpg",
+    "publisher": "Plantmark",
+    "credit": "Source: Plantmark",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G77"
+  },
+  "food-77": {
+    "src": "/plants/food-77-960.webp",
+    "originalFilename": "77_Bu-ungon.jpg",
+    "sourceUrl": "https://i.ebayimg.com/images/g/1RkAAOSwe0tnB4ZZ/s-l960.jpg",
+    "publisher": "eBay-hosted image (seller unverified)",
+    "credit": "Source: eBay-hosted image (seller unverified)",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G78"
+  },
+  "food-78": {
+    "src": "/plants/food-78-960.webp",
+    "originalFilename": "78_Biasong.webp",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "Food Use!G79"
+  },
+  "food-79": {
+    "src": "/plants/food-79-960.webp",
+    "originalFilename": "79_Limonsito.jpg",
+    "sourceUrl": "https://magilkey.com/wp-content/uploads/DSC07440.jpg",
+    "publisher": "Michael A. Gilkey, Inc.",
+    "credit": "Source: Michael A. Gilkey, Inc.",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G80"
+  },
+  "food-8": {
+    "src": "/plants/food-8-960.webp",
+    "originalFilename": "8-Daucus carota.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/84336733",
+    "publisher": "iNaturalist",
+    "credit": "Credit: Michelle Layton",
+    "status": "named-credit-verified",
+    "photographer": "Michelle Layton",
+    "license": "All rights reserved",
+    "sourceRef": "Food Use!G9"
+  },
+  "food-80": {
+    "src": "/plants/food-80-960.webp",
+    "originalFilename": "80_Aganas.jpeg",
+    "sourceUrl": "https://alchetron.com/cdn/flacourtia-rukam-a51bf46b-3740-4723-be31-b0a2b41a540-resize-750.jpeg",
+    "publisher": "Alchetron",
+    "credit": "Source: Alchetron",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G81"
+  },
+  "food-81": {
+    "src": "/plants/food-81-960.webp",
+    "originalFilename": "81_Rambutan.webp",
+    "sourceUrl": "https://www.picturethisai.com/wiki-image/1080/2F3E3351036140E0A6E87507AF606D5D.jpeg",
+    "publisher": "PictureThis",
+    "credit": "Source: PictureThis",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G82"
+  },
+  "food-82": {
+    "src": "/plants/food-82-960.webp",
+    "originalFilename": "82_Kaimito.webp",
+    "sourceUrl": "https://www.picturethisai.com/wiki-image/1080/A7A52DBB1F6248B1B501228EF484E7D4.jpeg",
+    "publisher": "PictureThis",
+    "credit": "Source: PictureThis",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G83"
+  },
+  "food-83": {
+    "src": "/plants/food-83-960.webp",
+    "originalFilename": "83-Atsal.JPG",
+    "sourceUrl": "https://www.gardenia.net/plant/capsicum-annuum",
+    "publisher": "Gardenia",
+    "credit": "Source: Gardenia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G84"
+  },
+  "food-84": {
+    "src": "/plants/food-84-960.webp",
+    "originalFilename": "84-Sili.JPG",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Capsicum_frutescens",
+    "publisher": "Wikipedia",
+    "credit": "Source: Wikipedia",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G85"
+  },
+  "food-85": {
+    "src": "/plants/food-85-960.webp",
+    "originalFilename": "85-Kamatis.WEBP",
+    "sourceUrl": "https://www.picturethisai.com/wiki-image/1080/348111888240246784.jpeg",
+    "publisher": "PictureThis",
+    "credit": "Source: PictureThis",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G86"
+  },
+  "food-86": {
+    "src": "/plants/food-86-960.webp",
+    "originalFilename": "86-Talong.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG",
+    "publisher": "Wikimedia Commons",
+    "credit": "Photo: Joydeep",
+    "status": "named-credit-verified",
+    "photographer": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceRef": "Food Use!G87"
+  },
+  "food-87": {
+    "src": "/plants/food-87-960.webp",
+    "originalFilename": "87-Patatas.AVIF",
+    "sourceUrl": "https://www.permalogica.com/post/solanum-tuberosum-potato",
+    "publisher": "Permalogica",
+    "credit": "Source: Permalogica",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G88"
+  },
+  "food-88": {
+    "src": "/plants/food-88-960.webp",
+    "originalFilename": "88-TukabonJPG.jpg",
+    "sourceUrl": "https://toptropicals.com/catalog/uid/etlingera_sp.htm",
+    "publisher": "TopTropicals",
+    "credit": "Source: TopTropicals",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G89"
+  },
+  "food-89": {
+    "src": "/plants/food-89-960.webp",
+    "originalFilename": "89-Luya.WEBP",
+    "sourceUrl": "https://pureasiaseeds.com/en-gb/products/ginger-zingiber-officinale-vegetable-seeds-for-planting-in-garden",
+    "publisher": "Pure Asia Seeds",
+    "credit": "Source: Pure Asia Seeds",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G90"
+  },
+  "food-9": {
+    "src": "/plants/food-9-960.webp",
+    "originalFilename": "9_Gabi.png",
+    "sourceUrl": "https://agriculture.com.ph/2019/07/13/gabi-an-indigenous-vegetable-of-the-philippines/",
+    "publisher": "Agriculture Monthly",
+    "credit": "Source: Agriculture Monthly",
+    "status": "source-linked",
+    "sourceRef": "Food Use!G10"
+  },
+  "medicine-1": {
+    "src": "/plants/medicine-1-960.webp",
+    "originalFilename": "1-Justicia gendarussa.jpg",
+    "sourceUrl": "https://toptropicals.com/catalog/uid/justicia_gendarussa.htm",
+    "publisher": "TopTropicals",
+    "credit": "Source: TopTropicals",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I2"
+  },
+  "medicine-10": {
+    "src": "/plants/medicine-10-960.webp",
+    "originalFilename": "10_Tuay-tuay.jpg",
+    "sourceUrl": "https://assessment.ifas.ufl.edu/site/assets/files/1612/bidens_pilosa_flowers.jpg",
+    "publisher": "University of Florida / IFAS",
+    "credit": "Source: University of Florida / IFAS",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I11"
+  },
+  "medicine-11": {
+    "src": "/plants/medicine-11-960.webp",
+    "originalFilename": "11_Bangkaw-bangkaw.jpg",
+    "sourceUrl": "https://www.acorral.es/malpiweb/florayfauna/floryfauima/imamovil/carnicera7.jpg",
+    "publisher": "Ángel Corral’s flora and fauna pages",
+    "credit": "Source: Ángel Corral’s flora and fauna pages",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I12"
+  },
+  "medicine-12": {
+    "src": "/plants/medicine-12-960.webp",
+    "originalFilename": "12_Gabon.JPG",
+    "sourceUrl": "https://2.bp.blogspot.com/-ZzsL6O_7UMY/VxYcaBXDCYI/AAAAAAAACAM/iGjDNKn3Qj41mq4jKjE_FUC_39jufR0LQCLcB/s1600/blumea%2Bbalsamifera%2Bsambong%2Bleaves.JPG",
+    "publisher": "Blogger-hosted image (original blog unverified)",
+    "credit": "Source: Blogger-hosted image (original blog unverified)",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I13"
+  },
+  "medicine-21": {
+    "src": "/plants/medicine-21-960.webp",
+    "originalFilename": "21_Talahid.jpg",
+    "sourceUrl": "https://www.pinterest.com/pin/cyperaceae-scleria-scrobiculata--376472850091142703/",
+    "publisher": "Pinterest (original creator unverified)",
+    "credit": "Source: Pinterest (original creator unverified)",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I22"
+  },
+  "medicine-22": {
+    "src": "/plants/medicine-22-960.webp",
+    "originalFilename": "22_Tuba-tuba.jpg",
+    "sourceUrl": "https://www.stuartxchange.org/TubangBakod.html",
+    "publisher": "StuartXchange",
+    "credit": "Source: StuartXchange",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I23"
+  },
+  "medicine-23": {
+    "src": "/plants/medicine-23-960.webp",
+    "originalFilename": "23_Tawa-tawa.jpg",
+    "sourceUrl": "https://revistacultivar.com/plant-health/Euphorbia-hirta",
+    "publisher": "Revista Cultivar",
+    "credit": "Source: Revista Cultivar",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I24"
+  },
+  "medicine-25": {
+    "src": "/plants/medicine-25-960.webp",
+    "originalFilename": "25_Medicine (Asunting).webp",
+    "sourceUrl": "https://www.monaconatureencyclopedia.com/senna-alata/?lang=en",
+    "publisher": "Monaco Nature Encyclopedia",
+    "credit": "Source: Monaco Nature Encyclopedia",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I26"
+  },
+  "medicine-27": {
+    "src": "/plants/medicine-27-960.webp",
+    "originalFilename": "27_Medicine (Narra).jpg",
+    "sourceUrl": "https://www.iplantz.com/plant/1323/pterocarpus-indicus/",
+    "publisher": "iplantz.com",
+    "credit": "Source: iplantz.com",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I28"
+  },
+  "medicine-28": {
+    "src": "/plants/medicine-28-960.webp",
+    "originalFilename": "28_Medicine (Sibukaw).webp",
+    "sourceUrl": "https://smpbkerala.in/herbal-data/caesalpinia-sappan.asp",
+    "publisher": "State Medicinal Plants Board, Kerala",
+    "credit": "Source: State Medicinal Plants Board, Kerala",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I29"
+  },
+  "medicine-29": {
+    "src": "/plants/medicine-29-960.webp",
+    "originalFilename": "29_Medicine (Selari).jpg",
+    "sourceUrl": "https://www.fnai.org/species-communities/invasives/invasives-print?ID=66",
+    "publisher": "Florida Natural Areas Inventory",
+    "credit": "Source: Florida Natural Areas Inventory",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I30"
+  },
+  "medicine-3": {
+    "src": "/plants/medicine-3-960.webp",
+    "originalFilename": "3-Centella asiatica.jpg",
+    "sourceUrl": "https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/centella-asiatica",
+    "publisher": "ScienceDirect",
+    "credit": "Source: ScienceDirect",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I4"
+  },
+  "medicine-30": {
+    "src": "/plants/medicine-30-960.webp",
+    "originalFilename": "30_Medicine (Lagundi).webp",
+    "sourceUrl": "https://indiabiodiversity.org/species/show/32833",
+    "publisher": "India Biodiversity Portal",
+    "credit": "Source: India Biodiversity Portal",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I31"
+  },
+  "medicine-31": {
+    "src": "/plants/medicine-31-960.webp",
+    "originalFilename": "31_Yerba Buena.jpg",
+    "sourceUrl": "https://gobotany.nativeplanttrust.org/species/mentha/arvensis/",
+    "publisher": "Native Plant Trust / Go Botany",
+    "credit": "Source: Native Plant Trust / Go Botany",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I32"
+  },
+  "medicine-32": {
+    "src": "/plants/medicine-32-960.webp",
+    "originalFilename": "32_Gmelina.jpg",
+    "sourceUrl": "https://www.planetayurveda.com/library/gambhari-gmelina-arborea/",
+    "publisher": "Planet Ayurveda",
+    "credit": "Source: Planet Ayurveda",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I33"
+  },
+  "medicine-33": {
+    "src": "/plants/medicine-33-960.webp",
+    "originalFilename": "33_Mayana.jpg",
+    "sourceUrl": "https://tropical.theferns.info/viewtropical.php?id=Plectranthus+scutellarioides",
+    "publisher": "Useful Tropical Plants",
+    "credit": "Source: Useful Tropical Plants",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I34"
+  },
+  "medicine-34": {
+    "src": "/plants/medicine-34-960.webp",
+    "originalFilename": "34_Escoba.jpg",
+    "sourceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:235798-2",
+    "publisher": "Royal Botanic Gardens, Kew / Plants of the World Online",
+    "credit": "Source: Royal Botanic Gardens, Kew / Plants of the World Online",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I35"
+  },
+  "medicine-35": {
+    "src": "/plants/medicine-35-960.webp",
+    "originalFilename": "35_Native Cotton.jpg",
+    "sourceUrl": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/gossypium-arboreum",
+    "publisher": "ScienceDirect",
+    "credit": "Source: ScienceDirect",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I36"
+  },
+  "medicine-36": {
+    "src": "/plants/medicine-36-960.webp",
+    "originalFilename": "36_Handulapang.jpg",
+    "sourceUrl": "https://plant-directory.ifas.ufl.edu/plant-directory/urena-lobata/",
+    "publisher": "University of Florida / IFAS",
+    "credit": "Source: University of Florida / IFAS",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I37"
+  },
+  "medicine-37": {
+    "src": "/plants/medicine-37-960.webp",
+    "originalFilename": "37_Panyawan.jpg",
+    "sourceUrl": "https://www.stuartxchange.org/Makabuhay.html",
+    "publisher": "StuartXchange",
+    "credit": "Source: StuartXchange",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I38"
+  },
+  "medicine-38": {
+    "src": "/plants/medicine-38-960.webp",
+    "originalFilename": "38_Lagnob.jpg",
+    "sourceUrl": "https://alchetron.com/Ficus-septica",
+    "publisher": "Alchetron",
+    "credit": "Source: Alchetron",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I39"
+  },
+  "medicine-39": {
+    "src": "/plants/medicine-39-960.webp",
+    "originalFilename": "39_Nangka.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2733",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I40"
+  },
+  "medicine-4": {
+    "src": "/plants/medicine-4-960.webp",
+    "originalFilename": "4-Adenium obesum.jpg",
+    "sourceUrl": "https://tula.house/blogs/tulas-plant-library/adenium-obesum",
+    "publisher": "Tula House",
+    "credit": "Source: Tula House",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I5"
+  },
+  "medicine-41": {
+    "src": "/plants/medicine-41-960.webp",
+    "originalFilename": "41_Saging.jpg",
+    "sourceUrl": "https://nmppdb.com.ng/species-details?specy=musa-sapientum",
+    "publisher": "Nigerian Medicinal Plants Database",
+    "credit": "Source: Nigerian Medicinal Plants Database",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I42"
+  },
+  "medicine-42": {
+    "src": "/plants/medicine-42-960.webp",
+    "originalFilename": "42-Syzygium sp..JPG",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3270",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I43"
+  },
+  "medicine-44": {
+    "src": "/plants/medicine-44-960.webp",
+    "originalFilename": "44-Cephalostacyumpergracile.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/taxa/47434-Poaceae",
+    "publisher": "iNaturalist",
+    "credit": "Source: iNaturalist",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I45"
+  },
+  "medicine-45": {
+    "src": "/plants/medicine-45-960.webp",
+    "originalFilename": "45-Saccharumviolaceum.JPG",
+    "sourceUrl": "https://www.nparks.gov.sg/florafaunaweb/flora/2/4/2411",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I46"
+  },
+  "medicine-47": {
+    "src": "/plants/medicine-47-960.webp",
+    "originalFilename": "47-Kawayan.jpg",
+    "sourceUrl": "https://pfaf.org/user/Plant.aspx?LatinName=Bambusa+blumeana",
+    "publisher": "Plants For A Future",
+    "credit": "Source: Plants For A Future",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I48"
+  },
+  "medicine-48": {
+    "src": "/plants/medicine-48-960.webp",
+    "originalFilename": "48-Kawilan.jpg",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "Medicinal Use!I49"
+  },
+  "medicine-49": {
+    "src": "/plants/medicine-49-960.webp",
+    "originalFilename": "49-Tulay.jpg",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "Medicinal Use!I50"
+  },
+  "medicine-5": {
+    "src": "/plants/medicine-5-960.webp",
+    "originalFilename": "5-Polyscias nodosa.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/55165748",
+    "publisher": "iNaturalist",
+    "credit": "Credit: kerrycoleman",
+    "status": "named-credit-verified",
+    "photographer": "kerrycoleman",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://www.inaturalist.org/photos/55165748",
+    "sourceRef": "Medicinal Use!I6"
+  },
+  "medicine-50": {
+    "src": "/plants/medicine-50-960.webp",
+    "originalFilename": "50-Apatot.webp",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "Medicinal Use!I51"
+  },
+  "medicine-51": {
+    "src": "/plants/medicine-51-960.webp",
+    "originalFilename": "51-Limon.jpg",
+    "sourceUrl": "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/3351/7496be65b5d34a6dbfc6104e6131ea20.jpg",
+    "publisher": "NParks Flora & Fauna Web",
+    "credit": "Source: NParks Flora & Fauna Web",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I52"
+  },
+  "medicine-54": {
+    "src": "/plants/medicine-54-960.webp",
+    "originalFilename": "54-Tabako.JPG",
+    "sourceUrl": "https://www.nzpcn.org.nz/flora/species/nicotiana-tabacum/",
+    "publisher": "New Zealand Plant Conservation Network",
+    "credit": "Source: New Zealand Plant Conservation Network",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I55"
+  },
+  "medicine-55": {
+    "src": "/plants/medicine-55-960.webp",
+    "originalFilename": "55-Hanupol.JPG",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Poikilospermum",
+    "publisher": "Wikipedia",
+    "credit": "Source: Wikipedia",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I56"
+  },
+  "medicine-56": {
+    "src": "/plants/medicine-56-960.webp",
+    "originalFilename": "56-Manumbilan.JPG",
+    "sourceUrl": "http://phytoimages.siu.edu/imgs/benctan/r/Urticaceae_Leucosyke_capitellata_34732.html",
+    "publisher": "PhytoImages / Southern Illinois University",
+    "credit": "Source: PhytoImages / Southern Illinois University",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I57"
+  },
+  "medicine-57": {
+    "src": "/plants/medicine-57-960.webp",
+    "originalFilename": "57_kanding-kanding.jpg",
+    "sourceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1126344-2",
+    "publisher": "Royal Botanic Gardens, Kew / Plants of the World Online",
+    "credit": "Source: Royal Botanic Gardens, Kew / Plants of the World Online",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I58"
+  },
+  "medicine-58": {
+    "src": "/plants/medicine-58-960.webp",
+    "originalFilename": "58_alingatong.jpg",
+    "sourceUrl": "https://powo.science.kew.org/results?q=Laportea",
+    "publisher": "Royal Botanic Gardens, Kew / Plants of the World Online",
+    "credit": "Source: Royal Botanic Gardens, Kew / Plants of the World Online",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I59"
+  },
+  "medicine-6": {
+    "src": "/plants/medicine-6-960.webp",
+    "originalFilename": "6-Sasevieria trifasciata.jpg",
+    "sourceUrl": "https://keyserver.lucidcentral.org/weeds/data/media/Html/sansevieria_trifasciata.htm",
+    "publisher": "Lucidcentral",
+    "credit": "Source: Lucidcentral",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I7"
+  },
+  "medicine-60": {
+    "src": "/plants/medicine-60-960.webp",
+    "originalFilename": "60_kanipay.jpg",
+    "sourceUrl": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:255769-2",
+    "publisher": "Royal Botanic Gardens, Kew / Plants of the World Online",
+    "credit": "Source: Royal Botanic Gardens, Kew / Plants of the World Online",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I61"
+  },
+  "medicine-63": {
+    "src": "/plants/medicine-63-960.webp",
+    "originalFilename": "63-anonang.png",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "Medicinal Use!I64"
+  },
+  "medicine-7": {
+    "src": "/plants/medicine-7-960.webp",
+    "originalFilename": "7_Hagonoy.jpg",
+    "sourceUrl": "https://2.bp.blogspot.com/-XIeBJU6A5fM/W_Z8MhiwkXI/AAAAAAAABSo/SEaaQHYdfZgd98aE_7qIBF7Nxbrs42LtgCLcBGAs/s400/34307614_1829113837391807_2431437679833907200_n.jpg",
+    "publisher": "Blogger-hosted image (original blog unverified)",
+    "credit": "Source: Blogger-hosted image (original blog unverified)",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I8"
+  },
+  "medicine-8": {
+    "src": "/plants/medicine-8-960.webp",
+    "originalFilename": "8_Hilbas.jfif",
+    "sourceUrl": "https://down-ph.img.susercontent.com/file/1b7dd6b5c6276cd5e2b16759cbaaccfe",
+    "publisher": "Shopee-hosted image (seller unverified)",
+    "credit": "Source: Shopee-hosted image (seller unverified)",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I9"
+  },
+  "medicine-9": {
+    "src": "/plants/medicine-9-960.webp",
+    "originalFilename": "9_Wild Sunflower.jpg",
+    "sourceUrl": "https://live.staticflickr.com/3807/9035093446_37876c5a45_b.jpg",
+    "publisher": "Flickr",
+    "credit": "Source: Flickr",
+    "status": "source-linked",
+    "sourceRef": "Medicinal Use!I10"
+  },
+  "medicine-14": {
+    "src": "/plants/medicine-14-960.webp",
+    "originalFilename": "14-tabon-tabon.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Atuna_excelsa_subsp._racemosa",
+    "publisher": "Wikipedia",
+    "credit": "Source: Wikipedia",
+    "status": "source-linked",
+    "sourceRef": "Talaandig Website-updated.xlsx · Medicinal Use!I15"
+  },
+  "medicine-15": {
+    "src": "/plants/medicine-15-960.webp",
+    "originalFilename": "15-bangka-bangka.jpg",
+    "sourceUrl": "https://dgnurseries.com/product/rhoeo-discolor-2/",
+    "publisher": "Wahat Al Sahraa Nurseries",
+    "credit": "Source: Wahat Al Sahraa Nurseries",
+    "status": "source-linked",
+    "sourceRef": "Talaandig Website-updated.xlsx · Medicinal Use!I16"
+  },
+  "medicine-16": {
+    "src": "/plants/medicine-16-960.webp",
+    "originalFilename": "16-Kalanchoe.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/342176977",
+    "publisher": "iNaturalist",
+    "credit": "Credit: onidiras-iNaturalist",
+    "status": "named-credit-verified",
+    "photographer": "onidiras-iNaturalist",
+    "license": "CC BY-NC",
+    "licenseUrl": "https://www.inaturalist.org/photos/342176977",
+    "sourceRef": "Talaandig Website-updated.xlsx · Medicinal Use!I17"
+  },
+  "medicine-18": {
+    "src": "/plants/medicine-18-960.webp",
+    "originalFilename": "18-pipino.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/346972380",
+    "publisher": "iNaturalist",
+    "credit": "Credit: Bff",
+    "status": "named-credit-verified",
+    "photographer": "Bff",
+    "license": "CC BY-SA",
+    "licenseUrl": "https://www.inaturalist.org/photos/346972380",
+    "sourceRef": "Talaandig Website-updated.xlsx · Medicinal Use!I19"
+  },
+  "food-48": {
+    "src": "/plants/food-48-960.webp",
+    "originalFilename": "48-kalibas.jpg",
+    "sourceUrl": "https://www.reddit.com/r/Philippines/comments/1l2zi8f/iba_naman_saribuhay_medinilla_teysmannii/",
+    "publisher": "Reddit · r/Philippines",
+    "credit": "Source: Reddit · r/Philippines",
+    "status": "source-linked",
+    "sourceRef": "Talaandig Website-updated.xlsx · Food Use!G49"
+  },
+  "food-49": {
+    "src": "/plants/food-49-960.webp",
+    "originalFilename": "49-katungaw.jpg",
+    "sourceUrl": "https://apps.lucidcentral.org/rainforest/text/entities/melastoma_malabathricum_subsp._malabathricum.htm",
+    "publisher": "Australian Tropical Rainforest Plants / Lucidcentral",
+    "credit": "Photo: B. Gray",
+    "status": "named-credit-verified",
+    "sourceRef": "Talaandig Website-updated.xlsx · Food Use!G50",
+    "photographer": "B. Gray"
+  },
+  "food-50": {
+    "src": "/plants/food-50-960.webp",
+    "originalFilename": "50-lansones.jpg",
+    "sourceUrl": "https://species.wikimedia.org/wiki/Lansium_domesticum",
+    "publisher": "Wikispecies / Wikimedia",
+    "credit": "Source: Wikispecies / Wikimedia",
+    "status": "source-linked",
+    "sourceRef": "Talaandig Website-updated.xlsx · Food Use!G51"
+  },
+  "food-51": {
+    "src": "/plants/food-51-960.webp",
+    "originalFilename": "51-santol.jpeg",
+    "sourceUrl": "https://www.inaturalist.org/photos/13347447",
+    "publisher": "iNaturalist",
+    "credit": "Credit: Jonathan Hiew",
+    "status": "named-credit-verified",
+    "photographer": "Jonathan Hiew",
+    "license": "CC BY-NC-SA",
+    "licenseUrl": "https://www.inaturalist.org/photos/13347447",
+    "sourceRef": "Talaandig Website-updated.xlsx · Food Use!G52"
+  },
+  "food-52": {
+    "src": "/plants/food-52-960.webp",
+    "originalFilename": "52-kamansi.webp",
+    "sourceUrl": "https://induareagro.com/p/artocarpus-camansi/",
+    "publisher": "Induare Agro",
+    "credit": "Source: Induare Agro",
+    "status": "source-linked",
+    "sourceRef": "Talaandig Website-updated.xlsx · Food Use!G53"
+  },
+  "food-54": {
+    "src": "/plants/food-54-960.webp",
+    "originalFilename": "54-marang.jpg",
+    "sourceUrl": "https://www.inaturalist.org/photos/1445265",
+    "publisher": "iNaturalist",
+    "credit": "Credit: Tony Rodd",
+    "status": "named-credit-verified",
+    "photographer": "Tony Rodd",
+    "license": "CC BY-NC-SA",
+    "licenseUrl": "https://www.inaturalist.org/photos/1445265",
+    "sourceRef": "Talaandig Website-updated.xlsx · Food Use!G55"
+  }
+}

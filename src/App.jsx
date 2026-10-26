@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
@@ -9,8 +9,9 @@ import Findings from "./pages/Findings";
 import Gallery from "./pages/Gallery";
 import Research from "./pages/Research";
 import Heritage from "./pages/Heritage";
-import PlantDetail from "./components/PlantDetail";
+import PlantProfile from "./pages/PlantProfile";
 import "./App.css";
+import "./atlas.css";
 const pages = {
   home: Home,
   plants: Plants,
@@ -20,6 +21,7 @@ const pages = {
   heritage: Heritage,
   gallery: Gallery,
   research: Research,
+  plant: PlantProfile,
 };
 function route() {
   return window.location.hash.slice(1) || "home";
@@ -27,20 +29,40 @@ function route() {
 export default function App() {
   const [routeKey, setRouteKey] = useState(route);
   const page = routeKey.split("?")[0];
-  const [plant, setPlant] = useState(null);
+  const positions = useRef(new Map());
+
   useEffect(() => {
-    const change = () => {
+    const change = (event) => {
+      positions.current.set(
+        new URL(event.oldURL).hash.slice(1) || "home",
+        window.scrollY,
+      );
       setRouteKey(route());
-      setPlant(null);
-      window.scrollTo(0, 0);
     };
     window.addEventListener("hashchange", change);
     return () => window.removeEventListener("hashchange", change);
   }, []);
+
+  useLayoutEffect(() => {
+    document.getElementById("main")?.focus({ preventScroll: true });
+    window.scrollTo(0, positions.current.get(routeKey) || 0);
+  }, [routeKey]);
+
   useEffect(() => {
     document.title = `${page === "home" ? "Plants, people & a living heritage" : page.charAt(0).toUpperCase() + page.slice(1)} | Talaandig`;
   }, [page]);
+
   const Page = pages[page];
+
+  function selectPlant(plant) {
+    positions.current.set(route(), window.scrollY);
+    const from =
+      page === "plant"
+        ? new URLSearchParams(window.location.hash.split("?")[1]).get("from") ||
+          "#plants"
+        : window.location.hash || "#home";
+    window.location.hash = `plant?${new URLSearchParams({ id: plant.id, from })}`;
+  }
   return (
     <>
       <a
@@ -53,10 +75,10 @@ export default function App() {
       >
         Skip to content
       </a>
-      <Header page={page} />
+      <Header page={page === "plant" ? "plants" : page} />
       <main id="main" tabIndex={-1}>
         {Page ? (
-          <Page key={routeKey} onSelect={setPlant} />
+          <Page key={routeKey} onSelect={selectPlant} />
         ) : (
           <section className="container page-intro">
             <h1>Page not found</h1>
@@ -65,7 +87,6 @@ export default function App() {
         )}
       </main>
       <Footer />
-      <PlantDetail plant={plant} onClose={() => setPlant(null)} />
     </>
   );
 }

@@ -1,15 +1,194 @@
-import Icon from '../components/Icon';
-import PlantCard from '../components/PlantCard';
-import plants from '../plants.json';
-import { stats } from '../data/study';
-export default function Home({
-  onSelect
-}) {
-  return <>
-<section className="container hero-wrap"><div className="hero"><div className="hero-shade" /><div className="hero-content"><span className="hero-eyebrow"><span />INDIGENOUS KNOWLEDGE, LIVING HERITAGE</span><h1>Rooted in nature.<br />Nourished by<br /><em>tradition.</em></h1><p>Discover the food plants, local wisdom, and living<br className="desktop-break" /> traditions of the Talaandig people of Bukidnon.</p><div className="hero-actions"><a className="button button-white" href="#plants">Explore the plants <Icon name="arrow" size={18} /></a><a className="hero-secondary" href="#community">Meet the community <Icon name="arrow" size={17} /></a></div></div><div className="hero-caption"><Icon name="pin" size={17} /><span>Sitio Tandacol, Lilingayon<br /><b>Valencia City, Bukidnon, Philippines</b></span></div><span className="hero-edition">FIELD NOTES / 2026</span></div><div className="stats-strip">{stats.map(([value, label, icon]) => <div className="stat" key={label}><Icon name={icon} size={25} /><div><strong>{value}</strong><span>{label}</span></div></div>)}</div></section>
-<section className="container introduction"><div><span className="eyebrow">WHERE CULTURE TAKES ROOT</span><h2>More than plants.<br />A way of life.</h2></div><div><p>In the uplands of Bukidnon, food is deeply connected to the forest, the land, and generations of shared knowledge. For the Talaandig community, wild and cultivated plants are part of everyday life.</p><a className="text-link" href="#research">Discover the story behind the study <Icon name="arrow" size={17} /></a></div><div className="study-stamp"><Icon name="book" size={25} /><span>RESEARCH-BASED</span><strong>Local knowledge.<br />Lasting value.</strong><small>Adlaon et al. · 2026</small></div></section>
-<section className="featured-section"><div className="container"><div className="section-heading"><div><span className="eyebrow">FROM FOREST TO FOOD</span><h2>A glimpse of plant diversity</h2></div><a className="text-link" href="#plants">Browse plant explorer <Icon name="arrow" size={18} /></a></div><div className="featured-grid">{['Medinilla copelandii', 'Rubus rosifolius', 'Calamus sp.'].map(name => <PlantCard key={name} plant={plants.find(p => p.scientific === name)} onSelect={onSelect} />)}</div><p className="photo-credit">Field photographs adapted from Figure 5, Adlaon et al. (2026). Medinilla photographs acknowledged to Grisielou Caylan in the paper.</p></div></section>
-<section className="container explore-section"><div className="section-heading"><div><span className="eyebrow">FOLLOW YOUR CURIOSITY</span><h2>Explore the bigger picture</h2></div><p>Plants are only part of the story.</p></div><div className="explore-grid">{[['categories', 'leaf', 'Nine ways plants nourish', 'Explore the food categories documented in the study.'], ['community', 'people', 'The people behind the knowledge', 'Meet the community and the landscape they care for.'], ['findings', 'chart', 'What the research reveals', 'Discover patterns in plant diversity and local food use.']].map(([url, icon, title, text], i) => <a className="explore-card" href={`#${url}`} key={url}><span className="explore-number">0{i + 1}</span><Icon name={icon} size={28} /><h3>{title}</h3><p>{text}</p><span className="text-link">Explore <Icon name="arrow" size={17} /></span></a>)}</div></section>
-<section className="container"><div className="heritage-banner"><div><span className="eyebrow">KNOWLEDGE WORTH KEEPING</span><h2>Preserving food knowledge.<br />Cultivating a resilient future.</h2><p>Documenting local food traditions supports the conversation<br className="desktop-break" /> on biodiversity, food security, and Zero Hunger.</p></div><a href="#research" className="button button-white">Explore the research <Icon name="arrow" size={18} /></a></div></section>
-</>;
+import Icon from "../components/Icon";
+import PlantHero from "../components/PlantHero";
+import PlantCard from "../components/PlantCard";
+import PhotoCredit from "../components/PhotoCredit";
+import { plantImage, findPlant } from "../data/catalog";
+
+export default function Home({ onSelect }) {
+  return (
+    <>
+      <PlantHero />
+      <section
+        id="study-highlights"
+        className="container collection-section"
+        tabIndex={-1}
+      >
+        <div className="section-heading">
+          <div>
+            <span className="eyebrow">
+              TWO COLLECTIONS. ONE LIVING HERITAGE.
+            </span>
+            <h2>From nourishment to traditional care.</h2>
+          </div>
+          <p>
+            Explore the knowledge documented
+            <br />
+            in Lilingayon, Bukidnon.
+          </p>
+        </div>
+        <div className="collection-grid">
+          <div className="collection-tile">
+            <a
+              className="collection-cover food-cover"
+              href="#plants?collection=food"
+            >
+              <img
+                src="/plants/food-28-960.webp"
+                alt="Heart-shaped sweet potato leaves"
+                width="960"
+                height="640"
+                loading="lazy"
+              />
+              <div>
+                <span className="eyebrow">01 / FOOD ETHNOBOTANY</span>
+                <h2>Plants that nourish</h2>
+                <p>
+                  Wild and cultivated foods, from familiar staples to forest
+                  fruits.
+                </p>
+                <span className="cover-bottom">
+                  89 table entries · 9 food-use groups{" "}
+                  <span>Explore food plants ↗</span>
+                </span>
+              </div>
+            </a>
+            <PhotoCredit photo={plantImage(findPlant("food-28"))} />
+          </div>
+          <div className="collection-tile">
+            <a
+              className="collection-cover medicine-cover"
+              href="#plants?collection=medicine"
+            >
+              <img
+                src="/plants/medicine-9-960.webp"
+                alt="Yellow wild sunflower blossoms"
+                width="960"
+                height="640"
+                loading="lazy"
+              />
+              <div>
+                <span className="eyebrow">02 / MEDICINAL ETHNOBOTANY</span>
+                <h2>Plants in traditional care</h2>
+                <p>
+                  A documented relationship between local plants and healing
+                  knowledge.
+                </p>
+                <span className="cover-bottom">
+                  66 species · 38 reported families{" "}
+                  <span>Explore medicinal plants ↗</span>
+                </span>
+              </div>
+            </a>
+            <PhotoCredit photo={plantImage(findPlant("medicine-9"))} />
+          </div>
+        </div>
+        <p className="atlas-caption">
+          Food: Adlaon et al. (2026), 91 species reported and 89 table entries.
+          Medicinal: Odchimar et al. (2017). Collections may share species.
+        </p>
+      </section>
+      <section className="container introduction">
+        <div>
+          <span className="eyebrow">WHERE CULTURE TAKES ROOT</span>
+          <h2>
+            More than plants.
+            <br />A way of life.
+          </h2>
+        </div>
+        <div>
+          <p>
+            In the uplands of Bukidnon, plants connect cultivated gardens,
+            forest resources, and generations of shared knowledge. Explore two
+            research accounts of Talaandig food and medicinal traditions.
+          </p>
+          <a className="text-link" href="#community">
+            Meet the community <Icon name="arrow" size={17} />
+          </a>
+        </div>
+        <div className="study-stamp">
+          <Icon name="book" size={25} />
+          <span>TWO RESEARCH ACCOUNTS</span>
+          <strong>
+            Local knowledge.
+            <br />
+            Lasting value.
+          </strong>
+          <small>2017 · 2026</small>
+        </div>
+      </section>
+      <section className="featured-section">
+        <div className="container">
+          <div className="section-heading">
+            <div>
+              <span className="eyebrow">LEAF BY LEAF</span>
+              <h2>Meet the plants</h2>
+            </div>
+            <a className="text-link" href="#plants">
+              Browse the atlas <Icon name="arrow" size={18} />
+            </a>
+          </div>
+          <div className="featured-grid">
+            {["food-28", "medicine-30", "food-58"].map((id) => (
+              <PlantCard key={id} plant={findPlant(id)} onSelect={onSelect} />
+            ))}
+          </div>
+          <p className="photo-credit">
+            Photo credits link to the supplied source pages. Named photographers
+            are shown where verified.
+          </p>
+        </div>
+      </section>
+      <section className="container research-preview">
+        <div>
+          <span className="eyebrow">SEE THE PATTERNS</span>
+          <h2>
+            Stories behind
+            <br />
+            the numbers.
+          </h2>
+          <p>
+            Which parts are used? How are plants represented across families?
+            Explore the published findings alongside accessible tables and
+            source notes.
+          </p>
+          <a
+            className="button button-green"
+            href="#findings?collection=medicine"
+          >
+            Explore research & findings ↗
+          </a>
+        </div>
+        <div className="preview-stat">
+          <strong>
+            49<span>%</span>
+          </strong>
+          <h3>Leaves in traditional use</h3>
+          <p>Share shown in the medicinal study’s plant-parts figure.</p>
+          <span className="small">
+            Figure 3 · Odchimar et al. (2017), p. 362
+          </span>
+        </div>
+      </section>
+      <section className="container">
+        <div className="heritage-banner">
+          <div>
+            <span className="eyebrow">KNOWLEDGE WORTH KEEPING</span>
+            <h2>
+              Rooted in community.
+              <br />
+              Recorded for understanding.
+            </h2>
+            <p>
+              Read the research, meet its context,
+              <br className="desktop-break" /> and follow every record back to
+              its source.
+            </p>
+          </div>
+          <a href="#research" className="button button-white">
+            Read the original studies ↗
+          </a>
+        </div>
+      </section>
+    </>
+  );
 }

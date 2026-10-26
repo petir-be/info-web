@@ -3,12 +3,11 @@ import Icon from "./Icon";
 const links = [
   ["home", "Overview"],
   ["plants", "Plant Explorer"],
-  ["categories", "Food Uses"],
   ["community", "The Community"],
-  ["findings", "Key Findings"],
+  ["findings", "Research & Findings"],
   ["heritage", "Living Heritage"],
   ["gallery", "Gallery"],
-  ["research", "The Study"],
+  ["research", "Sources"],
 ];
 export default function Header({ page }) {
   const [open, setOpen] = useState(false);
@@ -20,22 +19,18 @@ export default function Header({ page }) {
             <Icon name="sprout" size={29} />
           </span>
           <span>
-            Talaandig<span className="brand-sub">FOOD · PEOPLE · HERITAGE</span>
+            Talaandig
+            <span className="brand-sub">PLANTS · PEOPLE · HERITAGE</span>
           </span>
         </a>
         <span className="header-note">
-          An exploration of food ethnobotany
+          A living atlas of plant knowledge
           <br />
           <b>Bukidnon, Philippines</b>
         </span>
-        <a
-          className="button button-outline header-paper"
-          href="/talaandig-food-ethnobotany.pdf"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a className="button button-outline header-paper" href="#research">
           <Icon name="book" size={17} />
-          Read the paper
+          Read the studies
           <Icon name="arrow" size={16} />
         </a>
         <button
@@ -66,7 +61,7 @@ export default function Header({ page }) {
           ))}
           <span className="nav-location">
             <Icon name="pin" size={14} />
-            Sitio Tandacol
+            Lilingayon
           </span>
         </nav>
       </div>

@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "medicine-1",
+    "number": 1,
+    "local": "Salimbangon",
+    "scientific": "Justicia gendarussa",
+    "family": "Acanthaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Fever",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-2",
+    "number": 2,
+    "local": "Abana",
+    "scientific": "Annona muricata",
+    "family": "Annonaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Gastrointestinal cleansing; tumors",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-3",
+    "number": 3,
+    "local": "Yahung-yahung",
+    "scientific": "Centella asiatica",
+    "family": "Apiaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Dengue",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-4",
+    "number": 4,
+    "local": "Kalachuchi",
+    "scientific": "Adenium obesum",
+    "family": "Apocynaceae",
+    "parts": "Latex",
+    "reportedUses": [
+      {
+        "part": "Latex",
+        "use": "Scabies",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-5",
+    "number": 5,
+    "local": "Kapayawi",
+    "scientific": "Polyscias nodosa",
+    "family": "Araliaceae",
+    "parts": "Bark",
+    "reportedUses": [
+      {
+        "part": "Bark",
+        "use": "Damaged eyes of cow due to bug bites",
+        "preparation": "J; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-6",
+    "number": 6,
+    "local": "Pinya-pinya",
+    "scientific": "Sansevieria trifasciata",
+    "family": "Asparagaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Snake bite",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-7",
+    "number": 7,
+    "local": "Hagonoy",
+    "scientific": "Chromolaena odorata",
+    "family": "Asteraceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Wounds; itch; skin rashes",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-8",
+    "number": 8,
+    "local": "Hilbas",
+    "scientific": "Artemisia vulgaris",
+    "family": "Asteraceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Colds",
+        "preparation": "J; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-9",
+    "number": 9,
+    "local": "Wild sunflower",
+    "scientific": "Tithonia diversifolia",
+    "family": "Asteraceae",
+    "parts": "Flower, Leaves",
+    "reportedUses": [
+      {
+        "part": "Flower",
+        "use": "Scabies",
+        "preparation": "DA; Ex"
+      },
+      {
+        "part": "Leaves",
+        "use": "Head lice",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-10",
+    "number": 10,
+    "local": "Tuay-tuay",
+    "scientific": "Bidens pilosa",
+    "family": "Asteraceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Bughat",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-11",
+    "number": 11,
+    "local": "Bangkaw-bangkaw",
+    "scientific": "Conyza sumatrensis",
+    "family": "Asteraceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Sinda or twinges caused by roving body gas",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-12",
+    "number": 12,
+    "local": "Gabon",
+    "scientific": "Blumea balsamifera",
+    "family": "Asteraceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Cough",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-13",
+    "number": 13,
+    "local": "Kapayas",
+    "scientific": "Carica papaya",
+    "family": "Caricaceae",
+    "parts": "Latex, Leaf bud (male)",
+    "reportedUses": [
+      {
+        "part": "Latex",
+        "use": "Rabies",
+        "preparation": "DA; Ex"
+      },
+      {
+        "part": "Leaf bud (male)",
+        "use": "Dengue",
+        "preparation": "J; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-14",
+    "number": 14,
+    "local": "Tabon-tabon",
+    "scientific": "Atuna racemosa",
+    "family": "Chrysobalanaceae",
+    "parts": "Fruit",
+    "reportedUses": [
+      {
+        "part": "Fruit",
+        "use": "Peptic ulcer",
+        "preparation": "J; OR"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-15",
+    "number": 15,
+    "local": "Bangka-bangka",
+    "scientific": "Rheo discolor",
+    "family": "Commelinaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Bughat",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-16",
+    "number": 16,
+    "local": "Angelica/kataka-taka",
+    "scientific": "Kalanchoe pinnata",
+    "family": "Crassulaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Cough",
+        "preparation": "J; OR"
+      },
+      {
+        "part": "Leaves",
+        "use": "Fever",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "id": "medicine-17",
+    "number": 17,
+    "local": "Wild ampalaya",
+    "scientific": "Momordica charantia",
+    "family": "Cucurbitaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Oral thrush of infants",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-18",
+    "number": 18,
+    "local": "Pipino",
+    "scientific": "Cucumis sativus",
+    "family": "Cucurbitaceae",
+    "parts": "Fruit",
+    "reportedUses": [
+      {
+        "part": "Fruit",
+        "use": "Pimples",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-19",
+    "number": 19,
+    "local": "Kalabasa",
+    "scientific": "Cucurbita maxima",
+    "family": "Cucurbitaceae",
+    "parts": "Flower",
+    "reportedUses": [
+      {
+        "part": "Flower",
+        "use": "Burn",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-20",
+    "number": 20,
+    "local": "Sayote",
+    "scientific": "Sechium edule",
+    "family": "Cucurbitaceae",
+    "parts": "Fruit",
+    "reportedUses": [
+      {
+        "part": "Fruit",
+        "use": "Hypertension",
+        "preparation": "J; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-21",
+    "number": 21,
+    "local": "Talahid",
+    "scientific": "Scleria scrobiculata",
+    "family": "Cyperaceae",
+    "parts": "Young leaves",
+    "reportedUses": [
+      {
+        "part": "Young leaves",
+        "use": "Cleansing for the eyes",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-22",
+    "number": 22,
+    "local": "Tuba-tuba",
+    "scientific": "Jatropha curcas",
+    "family": "Euphorbiaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Diarrhea",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-23",
+    "number": 23,
+    "local": "Tawa-tawa",
+    "scientific": "Euphorbia hirta",
+    "family": "Euphorbiaceae",
+    "parts": "Whole part",
+    "reportedUses": [
+      {
+        "part": "Whole part",
+        "use": "Dengue",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-24",
+    "number": 24,
+    "local": "Balanghoy",
+    "scientific": "Manihot esculenta",
+    "family": "Euphorbiaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Fractures; headache",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-25",
+    "number": 25,
+    "local": "Asunting",
+    "scientific": "Senna alata",
+    "family": "Fabaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Ap-ap",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-26",
+    "number": 26,
+    "local": "Mani",
+    "scientific": "Arachis hypogaea",
+    "family": "Fabaceae",
+    "parts": "Young legume",
+    "reportedUses": [
+      {
+        "part": "Young legume",
+        "use": "Ugahip",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-27",
+    "number": 27,
+    "local": "Narra",
+    "scientific": "Pterocarpus indicus",
+    "family": "Fabaceae",
+    "parts": "Trunk bark",
+    "reportedUses": [
+      {
+        "part": "Trunk bark",
+        "use": "Lu-as",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-28",
+    "number": 28,
+    "local": "Sibukaw",
+    "scientific": "Caesalpinia sappan",
+    "family": "Fabaceae",
+    "parts": "Root",
+    "reportedUses": [
+      {
+        "part": "Root",
+        "use": "Anemia; obstetric hemorrhage; blood on excreted body fluid",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-29",
+    "number": 29,
+    "local": "Selari",
+    "scientific": "Flacourtia indica",
+    "family": "Flacourtiaceae",
+    "parts": "Thorns",
+    "reportedUses": [
+      {
+        "part": "Thorns",
+        "use": "Chicken pox; measles",
+        "preparation": "R; F; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-30",
+    "number": 30,
+    "local": "Lagundi",
+    "scientific": "Vitex negundo",
+    "family": "Lamiaceae",
+    "parts": "Bark",
+    "reportedUses": [
+      {
+        "part": "Bark",
+        "use": "Cough",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-31",
+    "number": 31,
+    "local": "Yerba Buena",
+    "scientific": "Menthe arvensis",
+    "family": "Lamiaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Cough",
+        "preparation": "D or In; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-32",
+    "number": 32,
+    "local": "Gmelina",
+    "scientific": "Gmelina arborea",
+    "family": "Lamiaceae",
+    "parts": "Young leaves",
+    "reportedUses": [
+      {
+        "part": "Young leaves",
+        "use": "Panuhot; fever",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-33",
+    "number": 33,
+    "local": "Mayana",
+    "scientific": "Plectranthus scutellarioides",
+    "family": "Lamiaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Cough",
+        "preparation": "J; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-34",
+    "number": 34,
+    "local": "Escoba",
+    "scientific": "Sida rhombifolia",
+    "family": "Malvaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Stomach ache; toothache",
+        "preparation": "In; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-35",
+    "number": 35,
+    "local": "Native cotton",
+    "scientific": "Gossypium arboreum",
+    "family": "Malvaceae",
+    "parts": "Root, Flower",
+    "reportedUses": [
+      {
+        "part": "Root",
+        "use": "Bughat",
+        "preparation": "D; OR"
+      },
+      {
+        "part": "Flower",
+        "use": "Amoebiasis",
+        "preparation": "In; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-36",
+    "number": 36,
+    "local": "Handalupang",
+    "scientific": "Urena lobata",
+    "family": "Malvaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Salagpi or (air) contact dermatitis",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-37",
+    "number": 37,
+    "local": "Panyawan",
+    "scientific": "Tinospora rumphii",
+    "family": "Menispermaceae",
+    "parts": "Stem; latex",
+    "reportedUses": [
+      {
+        "part": "Stem; latex",
+        "use": "Toothache; ringworm",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-38",
+    "number": 38,
+    "local": "Lagnob",
+    "scientific": "Ficus septica",
+    "family": "Moraceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Obstetric hemorrhage; miscarriage",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-39",
+    "number": 39,
+    "local": "Nangka",
+    "scientific": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "parts": "Root bark",
+    "reportedUses": [
+      {
+        "part": "Root bark",
+        "use": "Hepatitis; cancer; digestive tract cleansing",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-40",
+    "number": 40,
+    "local": "Kalamunggay",
+    "scientific": "Moringa oleifera",
+    "family": "Moringaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Colds",
+        "preparation": "J; OR"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-41",
+    "number": 41,
+    "local": "Saging",
+    "scientific": "Musa sapientum",
+    "family": "Musaceae",
+    "parts": "Withered leaves, Leaf bud, Young leaves",
+    "reportedUses": [
+      {
+        "part": "Withered leaves",
+        "use": "Obstetric hemorrhage; miscarriage",
+        "preparation": "D; OR"
+      },
+      {
+        "part": "Leaf bud",
+        "use": "Hemorrhoid",
+        "preparation": "DA (suppository)"
+      },
+      {
+        "part": "Young leaves",
+        "use": "Panuhot",
+        "preparation": "DA; Ex"
+      },
+      {
+        "part": "Young leaves",
+        "use": "Fever; to induce sweating",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-42",
+    "number": 42,
+    "local": "Manahos",
+    "scientific": "Syzygium sp.",
+    "family": "Myrtaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Diabetes; hypertension; cysts; tumors",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-43",
+    "number": 43,
+    "local": "Mais",
+    "scientific": "Zea mays",
+    "family": "Poaceae",
+    "parts": "Fruit",
+    "reportedUses": [
+      {
+        "part": "Fruit",
+        "use": "Wound",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-44",
+    "number": 44,
+    "local": "Bagtuk",
+    "scientific": "Cephalostacyum pergracile",
+    "family": "Poaceae",
+    "parts": "Stem",
+    "reportedUses": [
+      {
+        "part": "Stem",
+        "use": "Measles",
+        "preparation": "DA; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-45",
+    "number": 45,
+    "local": "Tubo",
+    "scientific": "Saccharum violaceum",
+    "family": "Poaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Kidney diseases",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-46",
+    "number": 46,
+    "local": "Tanglad",
+    "scientific": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Hypertension",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-47",
+    "number": 47,
+    "local": "Kawayan",
+    "scientific": "Bambusa blumeana",
+    "family": "Poaceae",
+    "parts": "Withered leaves",
+    "reportedUses": [
+      {
+        "part": "Withered leaves",
+        "use": "Hypertension",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-48",
+    "number": 48,
+    "local": "Kawilan",
+    "scientific": "Embelia philippinensis",
+    "family": "Primulaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Cancer; tumors; cysts; sedative",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-49",
+    "number": 49,
+    "local": "Tulay",
+    "scientific": "Alphitonia philippinensis",
+    "family": "Rhamnaceae",
+    "parts": "Trunk bark",
+    "reportedUses": [
+      {
+        "part": "Trunk bark",
+        "use": "Body odor; Kurikong",
+        "preparation": "D; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-50",
+    "number": 50,
+    "local": "Apatot",
+    "scientific": "Morinda citrifolia",
+    "family": "Rubiaceae",
+    "parts": "Root",
+    "reportedUses": [
+      {
+        "part": "Root",
+        "use": "Bughat; muscle aches; stomachache",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-51",
+    "number": 51,
+    "local": "Limon",
+    "scientific": "Citrofortunella microcarpa",
+    "family": "Rutaceae",
+    "parts": "Fruit",
+    "reportedUses": [
+      {
+        "part": "Fruit",
+        "use": "Colds",
+        "preparation": "J; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-52",
+    "number": 52,
+    "local": "Baungon",
+    "scientific": "Citrus maxima",
+    "family": "Rutaceae",
+    "parts": "Thorns",
+    "reportedUses": [
+      {
+        "part": "Thorns",
+        "use": "Chicken pox; measles",
+        "preparation": "R; F; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-53",
+    "number": 53,
+    "local": "Sili",
+    "scientific": "Capsicum annuum",
+    "family": "Solanaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Hemorrhage; miscarriage",
+        "preparation": "D; OR"
+      },
+      {
+        "part": "Roots",
+        "use": "Relief from spiciness from the plant’s own fruit",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-54",
+    "number": 54,
+    "local": "Tabako",
+    "scientific": "Nicotiana tabacum",
+    "family": "Solanaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Disinfect wounds; scabies",
+        "preparation": "P; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-55",
+    "number": 55,
+    "local": "Hanupol",
+    "scientific": "Poikilospermum suaveolens",
+    "family": "Urticaceae",
+    "parts": "Trunk, Leaves",
+    "reportedUses": [
+      {
+        "part": "Trunk",
+        "use": "Layag; dysmenorrhea",
+        "preparation": "D; OR"
+      },
+      {
+        "part": "Leaves",
+        "use": "Panuhot",
+        "preparation": "H; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-56",
+    "number": 56,
+    "local": "Manumbilan",
+    "scientific": "Leucosyke capitellata",
+    "family": "Urticaceae",
+    "parts": "Trunk bark",
+    "reportedUses": [
+      {
+        "part": "Trunk bark",
+        "use": "Toothache; kabuhi; peptic ulcer",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-57",
+    "number": 57,
+    "local": "Kanding-kanding",
+    "scientific": "Stachytarpheta cayennensis",
+    "family": "Verbenaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Bughat",
+        "preparation": "D; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-58",
+    "number": 58,
+    "local": "Alingatong",
+    "scientific": "Laportea brunnea",
+    "family": "Urticaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Relief from itch caused by its flowers",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-59",
+    "number": 59,
+    "local": "Badjang",
+    "scientific": "Alocasia macrorrhizos",
+    "family": "Araceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Nuka-nuka (concoction with Kanipay)",
+        "preparation": "C; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-60",
+    "number": 60,
+    "local": "Kanipay",
+    "scientific": "Toxicodendron radicans",
+    "family": "Anacardiaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Nuka-nuka (concoction with Badjang)",
+        "preparation": "C; Ex"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-61",
+    "number": 61,
+    "local": "Limbahon",
+    "scientific": "Cocos nucifera",
+    "family": "Arecaceae",
+    "parts": "Roots",
+    "reportedUses": [
+      {
+        "part": "Roots",
+        "use": "Bughat; goiter (concoction with Anonang)",
+        "preparation": "C; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-62",
+    "number": 62,
+    "local": "Alim",
+    "scientific": "Melanolepsis multiglandulosa",
+    "family": "Euphorbiaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Headache",
+        "preparation": "DA; Ex"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "id": "medicine-63",
+    "number": 63,
+    "local": "Anonang",
+    "scientific": "Cordia dichotoma",
+    "family": "Boraginaceae",
+    "parts": "Trunk bark",
+    "reportedUses": [
+      {
+        "part": "Trunk bark",
+        "use": "Bughat; goiter (concoction with Limbahon)",
+        "preparation": "C; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-64",
+    "number": 64,
+    "local": "Abocado",
+    "scientific": "Persea americana",
+    "family": "Lauraceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Diarrhea (concoction with Bayabas and Kaimito)",
+        "preparation": "C; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-65",
+    "number": 65,
+    "local": "Bayabas",
+    "scientific": "Psidium guajava",
+    "family": "Myrtaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Diarrhea (concoction with Abocado and Kaimito)",
+        "preparation": "C; OR"
+      }
+    ],
+    "page": 4
+  },
+  {
+    "id": "medicine-66",
+    "number": 66,
+    "local": "Kaimito",
+    "scientific": "Chrysophyllum cainito",
+    "family": "Sapotaceae",
+    "parts": "Leaves",
+    "reportedUses": [
+      {
+        "part": "Leaves",
+        "use": "Diarrhea (concoction with Abocado and Bayabas)",
+        "preparation": "C; OR"
+      }
+    ],
+    "page": 4
+  }
+]

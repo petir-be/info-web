@@ -1,16 +1,140 @@
-import { useState } from 'react';
-import PageIntro from '../components/PageIntro';
-import Icon from '../components/Icon';
-import { citation } from '../data/study';
+import PageIntro from "../components/PageIntro";
+import { citation } from "../data/study";
+import PhotoCredit from "../components/PhotoCredit";
+import images from "../data/images.json";
+import { findPlant, medicineCitation, medicinePdf } from "../data/catalog";
+
+const studies = [
+  {
+    name: "Food ethnobotany",
+    year: "2026",
+    collection: "food",
+    title:
+      "Quantitative Analysis on Food Ethnobotany of Talaandig Indigenous People in Sitio Tandacol, Barangay Lilingayon, Valencia City, Philippines",
+    authors:
+      "Ivy C. Adlaon · Fulgent P. Coritico · Florfe M. Acma · Dave P. Buena Vista · Victor B. Amoroso",
+    journal: "Journal of Tropical Biology and Conservation · 23 · pp. 132–149",
+    pdf: "/talaandig-food-ethnobotany.pdf",
+    citation,
+    method:
+      "Semi-structured interviews with 246 adult residents, guided plant walks, taxonomic verification, and analysis of food-use categories and ethnobotanical indices.",
+    rights:
+      "The food article is licensed under Creative Commons Attribution–NonCommercial 4.0.",
+  },
+  {
+    name: "Medicinal ethnobotany",
+    year: "2017",
+    collection: "medicine",
+    title:
+      "Ethnobotany of medicinal plants used by the Talaandig Tribe in Brgy. Lilingayon, Valencia City, Bukidnon, Philippines",
+    authors:
+      "Nyzar Mabeth O. Odchimar · Olga M. Nuñeza · Mylene M. Uy · W. T. P. S. K. Senarath",
+    journal:
+      "Asian Journal of Biological and Life Sciences · 6(1) · pp. 358–364",
+    pdf: medicinePdf,
+    citation: medicineCitation,
+    method:
+      "Informal key-informant interviews with Datu George T. Antihao and Hilgiy Oculares, supported by walks through plant habitats. The paper documents 66 species, plant parts, traditional uses, and preparation/application methods.",
+    rights:
+      "No reuse license has been verified for the medicinal article. Attribution is provided separately from the food article’s license.",
+  },
+];
 export default function Research() {
-  const [copied, setCopied] = useState('');
-  async function copy() {
-    try {
-      await navigator.clipboard.writeText(citation);
-      setCopied('Citation copied.');
-    } catch {
-      setCopied('Copy unavailable. Select and copy the citation below.');
-    }
-  }
-  return <section className="container page-section"><PageIntro eyebrow="THE SOURCE BEHIND THE STORIES" title="About the study">An educational guide to the research by Adlaon and colleagues, published in the Journal of Tropical Biology and Conservation.</PageIntro><div className="paper-panel"><div className="paper-icon"><Icon name="book" size={58} /><span>RESEARCH ARTICLE</span><strong>23 / 2026</strong></div><div><span className="eyebrow">JOURNAL OF TROPICAL BIOLOGY AND CONSERVATION</span><h2>Quantitative Analysis on Food Ethnobotany of Talaandig Indigenous People in Sitio Tandacol, Barangay Lilingayon, Valencia City, Philippines</h2><p>Ivy C. Adlaon · Fulgent P. Coritico · Florfe M. Acma · Dave P. Buena Vista · Victor B. Amoroso</p><p className="small">Central Mindanao University · Volume 23, pp. 132–149 · Published 7 July 2026</p><div className="paper-actions"><a className="button button-green" href="/talaandig-food-ethnobotany.pdf" target="_blank" rel="noreferrer"><Icon name="book" size={17} />Read full paper</a><a className="button button-outline" href="/talaandig-food-ethnobotany.pdf" download><Icon name="download" size={17} />Download PDF</a></div></div></div><div className="two-columns"><article><span className="eyebrow">RESEARCH APPROACH</span><h2>Listening, walking, documenting</h2><ol className="method-list"><li><h3>Community entry and consent</h3><p>Barangay approval, tribal prior informed consent, university ethics approval, and DENR permit R10-2024-95.</p></li><li><h3>Interviews with 246 adults</h3><p>Purposive sampling of permanent residents, with semi-structured interviews in Cebuano.</p></li><li><h3>Walking interviews and identification</h3><p>Plant documentation, taxonomic references, and verification at the Central Mindanao University Herbarium.</p></li><li><h3>Ethnobotanical analysis</h3><p>Classification into nine food-use groups and calculation of UR, UV, NU, and FL using ethnobotanyR.</p></li></ol></article><article><span className="eyebrow">ACKNOWLEDGEMENTS</span><h2>Knowledge is a shared effort</h2><p>The authors acknowledge the Talaandig community of Sitio Tandacol, Barangay Lilingayon officials, DOST-STRAND, Grisielou Caylan for Medinilla photographs, and Lian for support.</p><h3>About this infoweb</h3><p>This independently prepared website summarizes and reorganizes the supplied paper for educational use. The original article remains the source of record. The plant explorer retains the source table’s names and figures, including inconsistencies noted on the findings page.</p><h3>Attribution and reuse</h3><p>The source article is licensed under Creative Commons Attribution–NonCommercial 4.0. Text has been summarized and some photographs cropped for presentation.</p><a className="text-link" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noreferrer">Read the source license <Icon name="arrow" size={16} /></a></article></div><section className="citation-panel"><div className="section-heading"><h2>Cite the original research</h2><button className="button button-outline" onClick={copy}>Copy citation</button></div><p>{citation}</p><p className="copy-status" role="status">{copied}</p><a className="text-link" href="https://doi.org/10.51200/jtbc.v23i.6373" target="_blank" rel="noreferrer">View publication via DOI <Icon name="arrow" size={16} /></a><p className="small">Full bibliography: original PDF, pp. 147–149.</p></section></section>;
+  return (
+    <section className="container page-section">
+      <PageIntro
+        eyebrow="RETURN TO THE SOURCE"
+        title="Two studies. Shared roots."
+      >
+        The original publications remain the source of record. Explore their
+        methods, read the full PDFs, and cite the researchers behind the atlas.
+      </PageIntro>
+      {studies.map((study) => (
+        <article className="source-study" key={study.collection}>
+          <div className={`source-year ${study.collection}`}>
+            <span>{study.name}</span>
+            <strong>{study.year}</strong>
+            <span>RESEARCH ARTICLE</span>
+          </div>
+          <div>
+            <span className="eyebrow">{study.journal}</span>
+            <h2>{study.title}</h2>
+            <p>{study.authors}</p>
+            <div className="paper-actions">
+              <a
+                className="button button-green"
+                href={study.pdf}
+                target="_blank"
+                rel="noreferrer"
+              >
+                Read full paper ↗
+              </a>
+              <a className="button button-outline" href={study.pdf} download>
+                Download PDF
+              </a>
+              <a
+                className="text-link"
+                href={`#findings?collection=${study.collection}`}
+              >
+                Explore findings ↗
+              </a>
+            </div>
+            <h3>Research approach</h3>
+            <p>{study.method}</p>
+            <details>
+              <summary>Citation & attribution</summary>
+              <p>{study.citation}</p>
+            </details>
+          </div>
+        </article>
+      ))}
+      <div className="two-columns">
+        <article>
+          <span className="eyebrow">PEOPLE BEHIND THE KNOWLEDGE</span>
+          <h2>Documented with consent</h2>
+          <p>
+            Both publications describe consent and community participation. The
+            food study acknowledges the Talaandig community of Sitio Tandacol,
+            Barangay Lilingayon officials, DOST-STRAND, and its contributors.
+            The medicinal study acknowledges DOST-ASTHRDP and DOST-PCIIERD
+            funding support.
+          </p>
+          <p>
+            This educational adaptation is not an official community website or
+            a claim of community endorsement.
+          </p>
+        </article>
+        <article className="tinted-panel">
+          <span className="eyebrow">ABOUT THE PHOTOGRAPHS</span>
+          <h2>Images with their own provenance</h2>
+          <p>
+            Photo credits follow the image links in the supplied spreadsheet.
+            Google share links were traced to their original publishers. Named
+            image credits and licenses are shown where verified; a source-site
+            link does not identify an individual photographer or grant reuse
+            permission.
+          </p>
+        </article>
+      </div>
+      <details className="image-sources">
+        <summary>
+          Image sources and credits ({Object.keys(images).length})
+        </summary>
+        <p>
+          Credits describe the image actually displayed, including photographs
+          shared between food and medicinal profiles. Unresolved sources are
+          labeled explicitly.
+        </p>
+        <ul className="image-credits-list">
+          {Object.entries(images).map(([id, photo]) => (
+            <li key={id}>
+              <strong>{findPlant(id)?.local}</strong>
+              <p className="scientific">{findPlant(id)?.scientific}</p>
+              <PhotoCredit photo={photo} detailed />
+            </li>
+          ))}
+        </ul>
+      </details>
+    </section>
+  );
 }
