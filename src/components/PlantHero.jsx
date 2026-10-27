@@ -3,29 +3,26 @@ import "./PlantHero.css";
 
 export default function PlantHero() {
   return (
-    <section className="plant-story container" aria-label="A plant, a living heritage">
-      <div className="plant-stage">
-        <div className="plant-hero-copy">
-          <span className="eyebrow"><span className="plant-live-dot" />FROM THE ROOTS OF BUKIDNON</span>
-          <h1>Rooted in nature.<br />Nourished by<br /><em>tradition.</em></h1>
-          <p>A plant. A people. A living connection.<br />Explore the plant knowledge of the Talaandig<br className="desktop-break" /> community, one leaf at a time.</p>
-          <div className="plant-hero-actions">
-            <a className="button button-green" href="#plants">Explore the plants <Icon name="arrow" size={18} /></a>
-            <a className="text-link" href="#community">Meet the community <Icon name="arrow" size={17} /></a>
+    <section className="people-hero" aria-labelledby="people-hero-title">
+      <img
+        className="people-hero-photo"
+        src={`${import.meta.env.BASE_URL}community-performance.webp`}
+        alt="A group in red garments performing music with drums, bamboo instruments, and a string instrument"
+        width="1600"
+        height="1077"
+        fetchPriority="high"
+      />
+      <div className="container people-hero-content">
+        <div className="people-hero-copy">
+          <span className="eyebrow">FROM THE ROOTS OF BUKIDNON</span>
+          <h1 id="people-hero-title">Rooted in nature.<br />Nourished by<br /><em>tradition.</em></h1>
+          <p>A plant. A people. A living connection. Explore the plant knowledge of the Talaandig community, one leaf at a time.</p>
+          <div className="people-hero-actions">
+            <a className="button button-white" href="#plants">Explore the plants <Icon name="arrow" size={18} /></a>
+            <a className="button people-hero-secondary" href="#community">Meet the community <Icon name="arrow" size={17} /></a>
           </div>
-          <div className="plant-location"><Icon name="pin" size={16} /><span>Sitio Tandacol · Bukidnon, Philippines</span></div>
         </div>
-        <div className="plant-specimen">
-          <div className="plant-orbit" aria-hidden="true" />
-          <span className="specimen-index">BOTANICAL STUDY / 001</span>
-          <div className="plant-art">
-            <img className="plant-poster" src={`${import.meta.env.BASE_URL}plants/sweet-potato-poster.webp`}
-              alt="Sweet-potato plant illustration with heart-shaped green leaves and exposed storage roots"
-              width="640" height="740" fetchPriority="high" />
-          </div>
-          <div className="specimen-label"><span className="specimen-marker" /><div><strong>Kamote</strong><i>Ipomoea batatas</i><span>Botanical illustration</span></div></div>
-          <span className="specimen-report"><b>82</b>USE REPORTS<small>Adlaon et al., 2026</small></span>
-        </div>
+        <p className="people-hero-credit">Supplied photograph · Pictured community, location, and photographer unverified.</p>
       </div>
     </section>
   );

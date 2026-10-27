@@ -132,10 +132,6 @@ export default function Home({ onSelect }) {
               <PlantCard key={id} plant={findPlant(id)} onSelect={onSelect} />
             ))}
           </div>
-          <p className="photo-credit">
-            Photo credits link to the supplied source pages. Named photographers
-            are shown where verified.
-          </p>
         </div>
       </section>
       <section className="container research-preview">

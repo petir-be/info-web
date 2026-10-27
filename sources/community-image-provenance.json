@@ -1,0 +1,27 @@
+{
+  "ip-people-2": {
+    "originalFilename": "ip-people-2.jpeg",
+    "displayPath": "/community/ip-people-2.webp",
+    "sourceUrl": "https://peacebuilderscommunity.org/2022/10/the-spirit-of-magbabaya-was-there-during-the-talaandig-day-festivities/",
+    "publisher": "PeaceBuilders Community, Inc.",
+    "event": "Talaandig Day, 14 October 2022",
+    "verificationNote": "Source supplied by the user; article context checked. Individual photographer and image reuse license not established for this photo."
+  },
+  "ip-people-3": {
+    "originalFilename": "ip-people-3.jpeg",
+    "displayPath": "/community/ip-people-3.webp",
+    "sourceUrl": "https://peacebuilderscommunity.org/2022/10/the-spirit-of-magbabaya-was-there-during-the-talaandig-day-festivities/",
+    "publisher": "PeaceBuilders Community, Inc.",
+    "event": "Talaandig Day, 14 October 2022",
+    "verificationNote": "Source supplied by the user; article context checked. Individual photographer and image reuse license not established for this photo."
+  },
+  "medicinal-study-figure-1": {
+    "sourceFile": "public/Ethnobotanyofmedicinalplants.pdf",
+    "displayPath": "/community/medicinal-study-figure-1.png",
+    "figure": 1,
+    "pdfPage": 1,
+    "printedPage": 358,
+    "nativeDimensions": [305, 281],
+    "verificationNote": "Original embedded Im25.jpg extracted losslessly to PNG; map labels, colors, and boundaries unchanged. Original caption credits references 10 and 11."
+  }
+}
