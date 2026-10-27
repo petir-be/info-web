@@ -605,9 +605,9 @@
     "status": "source-linked",
     "checkedOn": "2026-10-26",
     "pageChecked": false,
-    "verificationNote": "Corrected source link supplied in updated workbook; individual photographer not identified.",
+    "verificationNote": "Replacement 50-lansones.jpg supplied on 2026-10-27. Source link retained from the updated workbook; exact photo match and individual photographer not verified.",
     "originalFilename": "50-lansones.jpg",
-    "previousSuppliedUrl": "https://www.inaturalist.org/taxa/1244750-Medinilla-teysmannii",
+    "previousSuppliedUrl": "https://species.wikimedia.org/wiki/Lansium_domesticum",
     "sourceWorkbook": "Talaandig Website-updated.xlsx"
   },
   "food-51": {
@@ -1835,7 +1835,9 @@
     "credit": "Original image source not identified",
     "status": "unresolved",
     "checkedOn": "2026-10-26",
-    "pageChecked": false
+    "pageChecked": false,
+    "originalFilename": "alim.jpg",
+    "verificationNote": "Image supplied on 2026-10-27; original publisher and photographer not verified."
   },
   "medicine-63": {
     "spreadsheetSheet": "Medicinal Use",

@@ -252,7 +252,7 @@
   {
     "id": "medicine-16",
     "number": 16,
-    "local": "Angelica/kataka-taka",
+    "local": "Angelica/Kataka-taka",
     "scientific": "Kalanchoe pinnata",
     "family": "Crassulaceae",
     "parts": "Leaves",
@@ -561,7 +561,7 @@
   {
     "id": "medicine-35",
     "number": 35,
-    "local": "Native cotton",
+    "local": "Native Cotton",
     "scientific": "Gossypium arboreum",
     "family": "Malvaceae",
     "parts": "Root, Flower",

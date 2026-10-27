@@ -13,7 +13,8 @@
   font-size: 13px;
   font-weight: 650;
   border: 1px solid transparent;
-  transition: background 0.2s,
+  transition:
+    background 0.2s,
     transform 0.2s;
 }
 .button:hover {
@@ -275,7 +276,8 @@
   background: white;
   border-radius: 7px;
   overflow: hidden;
-  transition: transform 0.2s,
+  transition:
+    transform 0.2s,
     box-shadow 0.2s;
   width: 100%;
 }
@@ -611,7 +613,7 @@ footer {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   padding-block: 20px;
-  border-block: 1px solid var(--border);
+  padding-bottom: 0px;
   margin-block: 24px;
 }
 .detail-grid dt {

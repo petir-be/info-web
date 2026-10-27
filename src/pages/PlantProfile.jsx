@@ -68,18 +68,44 @@ function StudyRecord({ plant }) {
               <dt>Number of uses (NU)</dt>
               <dd>{plant.uses}</dd>
             </div>
-            <div>
+            <div className="fidelity-detail">
               <dt>Fidelity level (FL)</dt>
-              <dd>{plant.fidelity}</dd>
+              <dd>
+                {plant.fidelity.split(";").map((entry) => {
+                  const [code, value] = entry
+                    .split(":")
+                    .map((part) => part.trim());
+                  const category = categories.find((c) => c.code === code);
+                  return (
+                    <div key={code}>
+                      {category ? `${category.name} (${code})` : code}: {value}%
+                    </div>
+                  );
+                })}
+                <p className="small">
+                  The reported percentage associating this plant with a
+                  particular food use.
+                </p>
+                <details className="fidelity-legend">
+                  <summary>Food-use code legend</summary>
+                  <ul className="use-list">
+                    {categories.map(({ code, name }) => (
+                      <li key={code}>
+                        <b>{code}</b> - {name}
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              </dd>
             </div>
           </dl>
-          <ul className="use-list">
+          {/* <ul className="use-list">
             {plant.categories.map((code) => (
               <li key={code}>
                 {categories.find((c) => c.code === code)?.name || code}
               </li>
             ))}
-          </ul>
+          </ul> */}
         </>
       )}
       <a
@@ -148,7 +174,9 @@ export default function PlantProfile({ onSelect }) {
           </figcaption>
         </figure>
         <div>
-          <span className="eyebrow" style={{fontSize:14}}>{plant.family} / FAMILY</span>
+          <span className="eyebrow" style={{ fontSize: 14 }}>
+            {plant.family} / FAMILY
+          </span>
           <h1>{plant.local}</h1>
           <p className="scientific">{plant.scientific}</p>
           <div className="profile-badges">

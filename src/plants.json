@@ -635,7 +635,7 @@
   },
   {
     "scientific": "Perilla frutescens",
-    "local": "mint",
+    "local": "Mint",
     "family": "Lamiaceae",
     "source": "Cultivated",
     "form": "herb",
@@ -918,7 +918,7 @@
   },
   {
     "scientific": "Syzygium sp.",
-    "local": "tambis-tambis",
+    "local": "Tambis-tambis",
     "family": "Myrtaceae",
     "source": "Cultivated",
     "form": "tree",
@@ -1144,7 +1144,7 @@
   },
   {
     "scientific": "Citrus macrocarpa",
-    "local": "calamondin",
+    "local": "Calamondin",
     "family": "Rutaceae",
     "source": "Cultivated",
     "form": "shrub",
@@ -1160,7 +1160,7 @@
   },
   {
     "scientific": "Citrus limon",
-    "local": "lime",
+    "local": "Lime",
     "family": "Rutaceae",
     "source": "Cultivated",
     "form": "tree",
@@ -1190,7 +1190,7 @@
   },
   {
     "scientific": "Citrus micrantha",
-    "local": "biasong",
+    "local": "Biasong",
     "family": "Rutaceae",
     "source": "Cultivated",
     "form": "tree",
@@ -1206,7 +1206,7 @@
   },
   {
     "scientific": "Citrus sp.",
-    "local": "limonsito",
+    "local": "Limonsito",
     "family": "Rutaceae",
     "source": "Cultivated",
     "form": "tree",

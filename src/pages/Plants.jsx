@@ -155,8 +155,8 @@ export default function Plants({ onSelect }) {
         </label>
       </div>
       {filters.collection === "food" && (
-        <a className="text-link" href="#categories">
-          Explore the nine food-use categories ↗
+        <a className="text-link" style={{color:"GrayText", fontSize:13, textDecoration:"underline"}} href="#categories">
+          Explore the nine food-use categories 
         </a>
       )}
       <details className="more-filters">

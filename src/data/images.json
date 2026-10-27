@@ -1258,5 +1258,14 @@
     "license": "CC BY-NC-SA",
     "licenseUrl": "https://www.inaturalist.org/photos/1445265",
     "sourceRef": "Talaandig Website-updated.xlsx · Food Use!G55"
+  },
+  "medicine-62": {
+    "src": "/plants/medicine-62-960.webp",
+    "originalFilename": "alim.jpg",
+    "sourceUrl": "",
+    "publisher": "",
+    "credit": "Original image source not identified",
+    "status": "unresolved",
+    "sourceRef": "User-supplied alim.jpg · Medicinal Use!I63"
   }
 }
