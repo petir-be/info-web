@@ -2,12 +2,31 @@ import Icon from "../components/Icon";
 import PlantHero from "../components/PlantHero";
 import PlantCard from "../components/PlantCard";
 import PhotoCredit from "../components/PhotoCredit";
+import CommunityPhoto from "../components/CommunityPhoto";
 import { plantImage, findPlant } from "../data/catalog";
 
 export default function Home({ onSelect }) {
   return (
     <>
       <PlantHero />
+      <section className="container community-highlight" aria-labelledby="community-highlight-title">
+        <CommunityPhoto />
+        <div>
+          <span className="eyebrow">WHERE CULTURE TAKES ROOT</span>
+          <h2 id="community-highlight-title">
+            More than plants.
+            <br />A way of life.
+          </h2>
+          <p>
+            In the uplands of Bukidnon, plants connect cultivated gardens,
+            forest resources, and generations of shared knowledge. Explore two
+            research accounts of Talaandig food and medicinal traditions.
+          </p>
+          <a className="text-link" href="#community">
+            Meet the community <Icon name="arrow" size={17} />
+          </a>
+        </div>
+      </section>
       <section
         id="study-highlights"
         className="container collection-section"
@@ -86,35 +105,6 @@ export default function Home({ onSelect }) {
           Food: Adlaon et al. (2026), 91 species reported and 89 table entries.
           Medicinal: Odchimar et al. (2017). Collections may share species.
         </p>
-      </section>
-      <section className="container introduction">
-        <div>
-          <span className="eyebrow">WHERE CULTURE TAKES ROOT</span>
-          <h2>
-            More than plants.
-            <br />A way of life.
-          </h2>
-        </div>
-        <div>
-          <p>
-            In the uplands of Bukidnon, plants connect cultivated gardens,
-            forest resources, and generations of shared knowledge. Explore two
-            research accounts of Talaandig food and medicinal traditions.
-          </p>
-          <a className="text-link" href="#community">
-            Meet the community <Icon name="arrow" size={17} />
-          </a>
-        </div>
-        <div className="study-stamp">
-          <Icon name="book" size={25} />
-          <span>TWO RESEARCH ACCOUNTS</span>
-          <strong>
-            Local knowledge.
-            <br />
-            Lasting value.
-          </strong>
-          <small>2017 · 2026</small>
-        </div>
       </section>
       <section className="featured-section">
         <div className="container">

@@ -18,6 +18,14 @@ body { background: var(--atlas-paper); }
 .button, .text-link, .collection-tabs button, .view-switch button { transition: color 150ms, background-color 150ms, border-color 150ms; }
 .button:active { filter: brightness(.94); }
 .plant-hero-copy { animation: atlas-arrive 400ms ease-out; }
+.community-highlight { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: clamp(24px, 4vw, 56px); align-items: center; padding-block: 48px; border-bottom: 1px solid var(--border); }
+.community-highlight h2 { font-size: clamp(30px, 3.5vw, 44px); margin-block: 16px 24px; }
+.community-highlight p { font-size: 16px; }
+.community-highlight .text-link { min-height: 44px; }
+.community-photo { min-width: 0; }
+.community-photo img { width: 100%; height: auto; border-radius: 12px; }
+.community-photo figcaption { margin-top: 12px; font-size: 13px; line-height: 1.6; color: var(--muted); }
+.page-section > .community-photo { margin-block: 32px 48px; }
 .collection-section { padding-top: 60px; }
 .collection-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
 .collection-cover { border: 1px solid var(--border); border-radius: 12px; overflow: hidden; background: var(--food-tint); }
@@ -180,6 +188,7 @@ button.study-bar-row { min-height: 44px; }
 @keyframes atlas-fade { from { opacity: .4; } to { opacity: 1; } }
 @keyframes atlas-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
 @media (max-width: 900px) {
+  .community-highlight { grid-template-columns: 1fr; padding-block: 32px; }
   .collection-cover > div { padding: 24px; }
   .collection-cover h2 { font-size: 25px; }
   .profile-intro { gap: 28px; }

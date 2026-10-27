@@ -1,4 +1,5 @@
 import PageIntro from "../components/PageIntro";
+import CommunityPhoto from "../components/CommunityPhoto";
 export default function Community() {
   return (
     <section className="container page-section">
@@ -9,6 +10,7 @@ export default function Community() {
         A community whose food traditions connect cultivated gardens, forest
         resources, and knowledge passed between generations.
       </PageIntro>
+      <CommunityPhoto />
       <div className="editorial-grid">
         <aside className="place-panel">
           <span className="eyebrow">BUKIDNON, PHILIPPINES</span>
