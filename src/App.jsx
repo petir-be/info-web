@@ -10,6 +10,7 @@ import Gallery from "./pages/Gallery";
 import Research from "./pages/Research";
 import Heritage from "./pages/Heritage";
 import PlantProfile from "./pages/PlantProfile";
+import About from "./pages/About";
 import "./App.css";
 import "./atlas.css";
 const pages = {
@@ -22,6 +23,7 @@ const pages = {
   gallery: Gallery,
   research: Research,
   plant: PlantProfile,
+  about: About,
 };
 function route() {
   return window.location.hash.slice(1) || "home";
@@ -49,7 +51,7 @@ export default function App() {
   }, [routeKey]);
 
   useEffect(() => {
-    document.title = `${page === "home" ? "Plants, people & a living heritage" : page.charAt(0).toUpperCase() + page.slice(1)} | Talaandig`;
+    document.title = `${page === "home" ? "Knowledge, plants & living heritage" : page === "about" ? "About Us" : page.charAt(0).toUpperCase() + page.slice(1)} | Kalaki Pamulahen`;
   }, [page]);
 
   const Page = pages[page];

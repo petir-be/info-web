@@ -1,4 +1,6 @@
-# Talaandig plant atlas
+# Kalaki Pamulahen
+
+Kalaki means knowledge; Pamulahen means plant. The site retains its existing sprout logo and presents documented Talaandig plant knowledge. The About Us page (`#about`) explains the name and credits the 14 project team members.
 
 A responsive React/Vite atlas based on the supplied food study by Adlaon et al. (2026) and medicinal study by Odchimar et al. (2017). Forest green and muted teal distinguish the collections on warm ivory backgrounds.
 
@@ -12,7 +14,7 @@ A responsive React/Vite atlas based on the supplied food study by Adlaon et al. 
 
 ## Pages and components
 
-Seven primary destinations cover Overview, Plant Explorer, Community, Research & Findings, Living Heritage, Gallery, and Sources. Food-use categories remain accessible from the food explorer. The explorer paginates cards and tables at 15 plants per page, with two card columns on mobile. Filters and sorting reset pagination; the page is stored in the URL. Plant profiles have shareable hash URLs; returning preserves explorer filters, view, sorting, and scroll position.
+Eight primary destinations cover Overview, Plant Explorer, Community, Research & Findings, Living Heritage, Gallery, Sources, and About Us. Food-use categories remain accessible from the food explorer. The explorer paginates cards and tables at 15 plants per page, with two card columns on mobile. Filters and sorting reset pagination; the page is stored in the URL. Plant profiles have shareable hash URLs; returning preserves explorer filters, view, sorting, and scroll position.
 
 - `src/plants.json`: 89 food-table entries.
 - `src/data/medicinal.json`: 66 medicinal records, manually transcribed from Table 1 (printed pp. 359–361), including merged-cell use associations.

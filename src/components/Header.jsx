@@ -8,19 +8,20 @@ const links = [
   ["heritage", "Living Heritage"],
   ["gallery", "Gallery"],
   ["research", "Sources"],
+  ["about", "About Us"],
 ];
 export default function Header({ page }) {
   const [open, setOpen] = useState(false);
   return (
     <header className="site-header">
       <div className="container header-main">
-        <a href="#home" className="brand" aria-label="Talaandig home">
+        <a href="#home" className="brand" aria-label="Kalaki Pamulahen home">
           <span className="brand-mark">
             <Icon name="sprout" size={29} />
           </span>
           <span>
-            Talaandig
-            <span className="brand-sub">PLANTS · PEOPLE · HERITAGE</span>
+            Kalaki Pamulahen
+            <span className="brand-sub">KNOWLEDGE · PLANTS · HERITAGE</span>
           </span>
         </a>
         <span className="header-note">
